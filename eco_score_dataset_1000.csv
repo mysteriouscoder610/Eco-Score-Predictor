@@ -1,0 +1,1001 @@
+Product Name,Description,Category,Origin,Packaging,Carbon (kg),Water (L),Transport Mode,Animal-Based,Imported,Eco Score
+Organic Deodorant,"Fragrance-free, paper tube",Personal Care,Portugal,Paper,8.66,8308,Air,False,True,52
+Local Deodorant,"Gel-based, recyclable bottle",Personal Care,China,Glass,21.31,16930,Truck,False,True,20
+Local Almond Milk,"Plastic-wrapped, imported, grass-fed",Food,Brazil,None,4.56,1546,Ship,True,True,73
+Local Body Wash,"Fragrance-free, paper tube",Personal Care,USA,Foil,0.98,5931,Ship,False,True,83
+Imported Bottled Water,"Glass bottle, no additives",Beverage,China,Cardboard,16.02,14922,Ship,False,True,34
+Imported Local Apples,"Frozen, plastic wrap, processed",Food,Portugal,None,24.68,17268,Truck,False,True,12
+Local Organic Cotton Tote,"Recycled material, cloth lining",Accessories,Brazil,Paper,28.75,573,Ship,False,True,37
+Imported Local Apples,"Vegan, packaged in TetraPak",Food,Portugal,Plastic,25.68,11970,Truck,False,True,11
+Local Energy Drink,"Glass bottle, no additives",Beverage,India,Glass,1.62,13645,Air,False,False,60
+Organic Energy Drink,"Plastic bottle, filtered water",Beverage,Portugal,Paper,1.01,4374,Truck,False,True,85
+Eco Beef Steak,"Frozen, plastic wrap, processed",Food,Portugal,Foil,28.3,13602,Ship,True,True,2
+Organic Almond Milk,"Plastic-wrapped, imported, grass-fed",Food,India,Plastic,3.31,6448,Truck,True,False,62
+Cold Brew Coffee,"Glass bottle, no additives",Beverage,USA,Foil,3.16,16319,Air,False,True,47
+Organic Body Wash,"Fragrance-free, paper tube",Personal Care,India,Plastic,9.11,12069,Truck,False,False,48
+Beef Steak,"Organic, non-GMO, paper-wrapped",Food,Brazil,Glass,16.29,3247,Air,True,True,37
+Organic Shampoo,"Biodegradable, compostable wrapper",Personal Care,China,Foil,3.55,2632,Truck,False,True,83
+Organic Juice,"TetraPak, added vitamins",Beverage,Brazil,Cardboard,28.15,12418,Truck,False,True,15
+Deodorant,"Biodegradable, compostable wrapper",Personal Care,USA,Foil,2.28,12091,Ship,False,True,67
+Bamboo Toothbrush,"Plastic case, roll-on type",Personal Care,Portugal,Foil,24.41,19256,Ship,False,True,9
+Organic Chicken Nuggets,"Farm-grown, no packaging",Food,USA,Glass,8.85,10796,Truck,True,True,47
+Organic Vegan Leather Wallet,"Plastic-free, eco-friendly frame",Accessories,Germany,Foil,6.09,20000,Truck,False,True,43
+Imported Shampoo,"Biodegradable, compostable wrapper",Personal Care,China,TetraPak,19.72,6123,Truck,False,True,44
+Eco Almond Milk,"Mixed nuts, oats, wrapped in foil",Food,Brazil,Glass,16.04,2871,Air,True,True,38
+Bamboo Toothbrush,"Biodegradable, compostable wrapper",Personal Care,Germany,TetraPak,1.55,5329,Truck,False,True,82
+Imported Organic Cotton Tote,"Plastic-free, eco-friendly frame",Accessories,Germany,None,6.77,15302,Ship,False,True,52
+Body Wash,"Sulfate-free, 200ml plastic bottle",Personal Care,Portugal,TetraPak,26.28,17833,Air,False,True,0
+Lotion,"Plastic case, roll-on type",Personal Care,Germany,Foil,18.29,3927,Air,False,True,42
+Imported Bottled Water,"Glass bottle, no additives",Beverage,India,Compost,27.14,2130,Air,False,False,32
+Local Cold Brew Coffee,"Glass bottle, no additives",Beverage,Brazil,Cardboard,18.11,12922,Air,False,True,24
+Deodorant,"Gel-based, recyclable bottle",Personal Care,USA,Plastic,25.97,204,Truck,False,True,34
+Eco Paneer,"Organic, non-GMO, paper-wrapped",Food,China,TetraPak,1.27,9258,Ship,True,True,65
+Local Cold Brew Coffee,"Aluminum can, roasted beans",Beverage,China,TetraPak,20.08,198,Ship,False,True,55
+Eco Bamboo Toothbrush,"Biodegradable, compostable wrapper",Personal Care,Portugal,Foil,11.39,8081,Truck,False,True,57
+Eco Energy Drink,"Plastic bottle, filtered water",Beverage,China,TetraPak,8.73,9777,Ship,False,True,59
+Recycled Sunglasses,"Recycled material, cloth lining",Accessories,Portugal,Foil,22.71,10328,Truck,False,True,30
+Beef Steak,"Farm-grown, no packaging",Food,India,Plastic,10.17,11391,Air,True,False,28
+Imported Lotion,"Biodegradable, compostable wrapper",Personal Care,Brazil,Foil,5.96,19293,Air,False,True,36
+Local Cold Brew Coffee,"Aluminum can, roasted beans",Beverage,Portugal,Paper,25.43,13788,Ship,False,True,18
+Eco Cold Brew Coffee,"Aluminum can, roasted beans",Beverage,India,TetraPak,21.57,5684,Truck,False,False,46
+Imported Energy Drink,"Glass bottle, no additives",Beverage,Portugal,Foil,17.95,12203,Ship,False,True,36
+Imported Lotion,"Sulfate-free, 200ml plastic bottle",Personal Care,China,None,7.39,9934,Air,False,True,52
+Eco Recycled Sunglasses,"Recycled material, cloth lining",Accessories,USA,Compost,9.26,3509,Air,False,True,60
+Tofu,"Vegan, packaged in TetraPak",Food,Portugal,TetraPak,3.8,9874,Air,False,True,59
+Eco Organic Juice,"Glass bottle, no additives",Beverage,Portugal,Plastic,24.06,8949,Truck,False,True,20
+Deodorant,"Sulfate-free, 200ml plastic bottle",Personal Care,Germany,None,17.68,2551,Ship,False,True,55
+Organic Cold Brew Coffee,"Glass bottle, no additives",Beverage,USA,Foil,18.13,5215,Truck,False,True,49
+Imported Vegan Leather Wallet,"Reusable, printed cotton",Accessories,USA,Cardboard,26.75,8923,Ship,False,True,25
+Organic Lotion,"Sulfate-free, 200ml plastic bottle",Personal Care,China,None,17.0,4234,Air,False,True,43
+Organic Cotton Tote,"Plastic-free, eco-friendly frame",Accessories,Germany,None,16.43,18806,Ship,False,True,26
+Energy Drink,"Aluminum can, roasted beans",Beverage,USA,TetraPak,1.55,16860,Truck,False,True,59
+Local Local Apples,"Plastic-wrapped, imported, grass-fed",Food,India,Foil,21.0,12805,Air,False,False,23
+Local Apples,"Organic, non-GMO, paper-wrapped",Food,USA,TetraPak,15.89,10912,Truck,False,True,43
+Eco Body Wash,"Biodegradable, compostable wrapper",Personal Care,Portugal,Paper,23.9,9101,Air,False,True,20
+Local Cold Brew Coffee,"Plastic bottle, filtered water",Beverage,Portugal,Cardboard,16.51,6133,Truck,False,True,50
+Imported Chicken Nuggets,"Frozen, plastic wrap, processed",Food,Brazil,Glass,0.84,17042,Ship,True,True,50
+Local Granola Bar,"Mixed nuts, oats, wrapped in foil",Food,Germany,Foil,20.66,4112,Air,False,True,36
+Bottled Water,"Glass bottle, no additives",Beverage,Portugal,Paper,15.94,5935,Air,False,True,43
+Local Cork Bag,"Made of cork, shipped from Europe",Accessories,Germany,Plastic,5.66,16277,Ship,False,True,42
+Imported Organic Cotton Tote,"Made of cork, shipped from Europe",Accessories,Brazil,Plastic,26.37,16083,Truck,False,True,1
+Organic Organic Cotton Tote,"Made of cork, shipped from Europe",Accessories,Portugal,TetraPak,7.11,19446,Ship,False,True,43
+Organic Juice,"Glass bottle, no additives",Beverage,Portugal,TetraPak,22.32,3511,Truck,False,True,44
+Cold Brew Coffee,"TetraPak, added vitamins",Beverage,Germany,Compost,9.94,1425,Air,False,True,64
+Imported Beef Steak,"Plastic-wrapped, imported, grass-fed",Food,India,Compost,21.67,14804,Air,True,False,8
+Local Paneer,"Organic, non-GMO, paper-wrapped",Food,Brazil,TetraPak,15.67,484,Air,True,True,44
+Chicken Nuggets,"Vegan, packaged in TetraPak",Food,USA,Foil,16.19,3648,Air,True,True,36
+Imported Organic Juice,"Glass bottle, no additives",Beverage,Germany,Foil,1.74,423,Ship,False,True,92
+Imported Cold Brew Coffee,"Plastic bottle, filtered water",Beverage,USA,TetraPak,15.06,11893,Air,False,True,32
+Organic Vegan Leather Wallet,"Reusable, printed cotton",Accessories,Brazil,None,12.28,15911,Ship,False,True,40
+Imported Beef Steak,"Plastic-wrapped, imported, grass-fed",Food,China,Foil,29.61,3141,Air,True,True,10
+Local Bamboo Toothbrush,"Fragrance-free, paper tube",Personal Care,Brazil,Foil,14.19,13303,Ship,False,True,41
+Imported Lotion,"Fragrance-free, paper tube",Personal Care,USA,None,4.58,2197,Air,False,True,72
+Organic Cold Brew Coffee,"TetraPak, added vitamins",Beverage,China,Compost,10.76,11453,Air,False,True,42
+Organic Deodorant,"Plastic case, roll-on type",Personal Care,Germany,Glass,1.35,16707,Ship,False,True,60
+Imported Shampoo,"Sulfate-free, 200ml plastic bottle",Personal Care,Germany,Cardboard,10.94,17555,Air,False,True,29
+Imported Cold Brew Coffee,"Glass bottle, no additives",Beverage,Portugal,Glass,26.18,5138,Ship,False,True,33
+Granola Bar,"Vegan, packaged in TetraPak",Food,China,None,6.29,17790,Ship,False,True,48
+Imported Vegan Leather Wallet,"Plastic-free, eco-friendly frame",Accessories,Brazil,Foil,21.22,1954,Air,False,True,40
+Eco Body Wash,"Gel-based, recyclable bottle",Personal Care,India,Compost,21.64,9799,Truck,False,False,38
+Eco Body Wash,"Sulfate-free, 200ml plastic bottle",Personal Care,India,Glass,18.88,13130,Truck,False,False,37
+Beef Steak,"Fresh, dairy-based, paper-packed",Food,Brazil,None,11.36,2063,Truck,True,True,59
+Local Local Apples,"Fresh, dairy-based, paper-packed",Food,China,Plastic,15.97,8082,Ship,False,True,38
+Organic Granola Bar,"Farm-grown, no packaging",Food,China,None,15.53,4231,Air,False,True,46
+Organic Juice,"TetraPak, added vitamins",Beverage,Germany,Compost,18.04,4969,Air,False,True,40
+Imported Deodorant,"Sulfate-free, 200ml plastic bottle",Personal Care,Portugal,Paper,5.69,9274,Air,False,True,56
+Imported Shampoo,"Fragrance-free, paper tube",Personal Care,China,Cardboard,11.3,13319,Ship,False,True,47
+Organic Body Wash,"Biodegradable, compostable wrapper",Personal Care,Brazil,Foil,24.95,8285,Air,False,True,20
+Organic Chicken Nuggets,"Organic, non-GMO, paper-wrapped",Food,Brazil,None,17.35,6466,Truck,True,True,39
+Imported Vegan Leather Wallet,"Made of cork, shipped from Europe",Accessories,China,TetraPak,6.28,16593,Ship,False,True,50
+Local Bottled Water,"Plastic bottle, filtered water",Beverage,Portugal,TetraPak,15.63,13691,Air,False,True,27
+Local Beef Steak,"Plastic-wrapped, imported, grass-fed",Food,USA,Paper,9.75,2422,Truck,True,True,62
+Local Cork Bag,"Recycled material, cloth lining",Accessories,Germany,None,5.19,11474,Truck,False,True,63
+Eco Bottled Water,"Plastic bottle, filtered water",Beverage,India,Compost,2.33,15515,Air,False,False,55
+Imported Bottled Water,"Aluminum can, roasted beans",Beverage,Germany,Paper,9.61,8988,Air,False,True,49
+Cork Bag,"Reusable, printed cotton",Accessories,Germany,None,28.69,220,Air,False,True,28
+Eco Lotion,"Sulfate-free, 200ml plastic bottle",Personal Care,Germany,Plastic,12.57,7256,Air,False,True,36
+Recycled Sunglasses,"Reusable, printed cotton",Accessories,Brazil,Foil,4.73,7568,Air,False,True,61
+Eco Shampoo,"Plastic case, roll-on type",Personal Care,USA,Plastic,4.78,9575,Truck,False,True,57
+Organic Vegan Leather Wallet,"Plastic-free, eco-friendly frame",Accessories,Portugal,Paper,28.94,12830,Ship,False,True,13
+Bamboo Toothbrush,"Gel-based, recyclable bottle",Personal Care,India,None,16.89,4236,Truck,False,False,59
+Eco Bamboo Toothbrush,"Biodegradable, compostable wrapper",Personal Care,China,Glass,22.57,12736,Truck,False,True,25
+Local Organic Cotton Tote,"Plastic-free, eco-friendly frame",Accessories,India,Paper,10.48,19817,Air,False,False,31
+Eco Body Wash,"Gel-based, recyclable bottle",Personal Care,India,Compost,16.59,5007,Air,False,False,47
+Local Lotion,"Fragrance-free, paper tube",Personal Care,Germany,Cardboard,18.79,16893,Ship,False,True,25
+Local Chicken Nuggets,"Fresh, dairy-based, paper-packed",Food,India,Glass,6.02,5572,Truck,True,False,67
+Imported Energy Drink,"Aluminum can, roasted beans",Beverage,Portugal,None,14.14,5242,Air,False,True,47
+Imported Paneer,"Mixed nuts, oats, wrapped in foil",Food,USA,Paper,22.2,13910,Air,True,True,4
+Local Lotion,"Biodegradable, compostable wrapper",Personal Care,India,Glass,5.58,5671,Air,False,False,68
+Vegan Leather Wallet,"Made of cork, shipped from Europe",Accessories,India,TetraPak,2.73,4220,Air,False,False,77
+Organic Juice,"Aluminum can, roasted beans",Beverage,India,Paper,23.47,7977,Ship,False,False,39
+Local Apples,"Mixed nuts, oats, wrapped in foil",Food,Portugal,Foil,25.4,5903,Truck,False,True,34
+Imported Bamboo Toothbrush,"Sulfate-free, 200ml plastic bottle",Personal Care,Germany,Cardboard,12.61,5245,Air,False,True,50
+Eco Bottled Water,"Glass bottle, no additives",Beverage,Germany,TetraPak,5.56,1912,Air,False,True,71
+Local Cold Brew Coffee,"TetraPak, added vitamins",Beverage,India,Glass,11.56,6258,Truck,False,False,65
+Organic Chicken Nuggets,"Vegan, packaged in TetraPak",Food,Germany,Cardboard,1.47,1740,Air,True,True,70
+Organic Energy Drink,"Aluminum can, roasted beans",Beverage,China,TetraPak,8.95,5255,Ship,False,True,68
+Local Lotion,"Gel-based, recyclable bottle",Personal Care,Brazil,Cardboard,15.01,9700,Truck,False,True,46
+Eco Bamboo Toothbrush,"Plastic case, roll-on type",Personal Care,India,Plastic,29.82,16568,Truck,False,False,0
+Eco Granola Bar,"Plastic-wrapped, imported, grass-fed",Food,Germany,Plastic,21.99,2240,Truck,False,True,38
+Imported Organic Juice,"TetraPak, added vitamins",Beverage,India,Glass,11.92,17766,Truck,False,False,42
+Shampoo,"Sulfate-free, 200ml plastic bottle",Personal Care,China,Paper,16.99,13796,Ship,False,True,35
+Eco Tofu,"Mixed nuts, oats, wrapped in foil",Food,Germany,Glass,9.75,15640,Ship,False,True,45
+Bamboo Toothbrush,"Plastic case, roll-on type",Personal Care,India,Foil,22.35,6526,Ship,False,False,43
+Deodorant,"Gel-based, recyclable bottle",Personal Care,Germany,Glass,25.06,808,Truck,False,True,44
+Imported Recycled Sunglasses,"Recycled material, cloth lining",Accessories,Portugal,Plastic,12.71,15469,Air,False,True,20
+Imported Vegan Leather Wallet,"Plastic-free, eco-friendly frame",Accessories,Germany,None,24.97,14887,Truck,False,True,17
+Organic Cork Bag,"Made of cork, shipped from Europe",Accessories,Brazil,None,3.9,4840,Air,False,True,69
+Cold Brew Coffee,"Aluminum can, roasted beans",Beverage,Portugal,Foil,21.11,340,Truck,False,True,53
+Imported Bamboo Toothbrush,"Plastic case, roll-on type",Personal Care,Germany,None,12.52,1311,Ship,False,True,68
+Eco Energy Drink,"TetraPak, added vitamins",Beverage,Brazil,None,11.68,7814,Truck,False,True,57
+Local Organic Cotton Tote,"Made of cork, shipped from Europe",Accessories,Portugal,None,24.69,12235,Air,False,True,12
+Local Deodorant,"Fragrance-free, paper tube",Personal Care,USA,Cardboard,15.93,19720,Truck,False,True,25
+Organic Chicken Nuggets,"Farm-grown, no packaging",Food,USA,Paper,14.28,14190,Ship,True,True,29
+Organic Lotion,"Sulfate-free, 200ml plastic bottle",Personal Care,China,Cardboard,3.69,14584,Truck,False,True,59
+Imported Cold Brew Coffee,"Glass bottle, no additives",Beverage,Germany,Glass,24.53,7554,Truck,False,True,31
+Organic Deodorant,"Plastic case, roll-on type",Personal Care,USA,Cardboard,2.75,5347,Air,False,True,70
+Vegan Leather Wallet,"Recycled material, cloth lining",Accessories,Brazil,None,12.62,12853,Truck,False,True,45
+Organic Recycled Sunglasses,"Made of cork, shipped from Europe",Accessories,China,Foil,29.15,11152,Air,False,True,5
+Imported Organic Juice,"TetraPak, added vitamins",Beverage,Brazil,TetraPak,18.05,16952,Truck,False,True,26
+Imported Bottled Water,"Glass bottle, no additives",Beverage,Brazil,Paper,6.25,17892,Truck,False,True,48
+Imported Bottled Water,"Aluminum can, roasted beans",Beverage,Portugal,Glass,24.84,17688,Air,False,True,1
+Chicken Nuggets,"Fresh, dairy-based, paper-packed",Food,Brazil,TetraPak,3.47,10294,Truck,True,True,59
+Beef Steak,"Fresh, dairy-based, paper-packed",Food,India,Glass,5.11,13052,Ship,True,False,54
+Energy Drink,"Aluminum can, roasted beans",Beverage,Brazil,Paper,6.52,18800,Ship,False,True,45
+Eco Vegan Leather Wallet,"Reusable, printed cotton",Accessories,USA,Glass,6.01,9663,Air,False,True,54
+Organic Juice,"TetraPak, added vitamins",Beverage,USA,Plastic,20.98,5318,Ship,False,True,34
+Organic Cotton Tote,"Made of cork, shipped from Europe",Accessories,China,Glass,7.11,18705,Truck,False,True,44
+Eco Body Wash,"Plastic case, roll-on type",Personal Care,Germany,Cardboard,10.35,10956,Truck,False,True,54
+Imported Cork Bag,"Plastic-free, eco-friendly frame",Accessories,Portugal,None,17.7,19111,Ship,False,True,22
+Organic Local Apples,"Frozen, plastic wrap, processed",Food,China,TetraPak,22.57,2103,Truck,False,True,46
+Imported Cork Bag,"Made of cork, shipped from Europe",Accessories,Portugal,Paper,25.22,19789,Truck,False,True,6
+Organic Juice,"Aluminum can, roasted beans",Beverage,Portugal,Paper,2.13,6869,Ship,False,True,78
+Deodorant,"Fragrance-free, paper tube",Personal Care,Portugal,Compost,26.61,11345,Truck,False,True,20
+Organic Bamboo Toothbrush,"Plastic case, roll-on type",Personal Care,Portugal,Plastic,25.4,6281,Truck,False,True,23
+Organic Juice,"Plastic bottle, filtered water",Beverage,Germany,Foil,3.07,1248,Truck,False,True,87
+Deodorant,"Gel-based, recyclable bottle",Personal Care,Brazil,Glass,26.07,14718,Ship,False,True,14
+Local Body Wash,"Fragrance-free, paper tube",Personal Care,India,None,7.59,16560,Ship,False,False,52
+Organic Chicken Nuggets,"Mixed nuts, oats, wrapped in foil",Food,Portugal,Foil,16.94,1290,Ship,True,True,50
+Imported Organic Cotton Tote,"Plastic-free, eco-friendly frame",Accessories,USA,Cardboard,19.68,1134,Truck,False,True,54
+Eco Cold Brew Coffee,"Glass bottle, no additives",Beverage,Portugal,Foil,18.43,2833,Truck,False,True,54
+Imported Organic Juice,"TetraPak, added vitamins",Beverage,Brazil,Plastic,18.05,4867,Truck,False,True,40
+Organic Paneer,"Mixed nuts, oats, wrapped in foil",Food,USA,Glass,25.68,13080,Air,True,True,0
+Organic Almond Milk,"Frozen, plastic wrap, processed",Food,China,TetraPak,12.27,12316,Air,True,True,27
+Organic Juice,"Aluminum can, roasted beans",Beverage,USA,Foil,17.07,13535,Air,False,True,24
+Organic Recycled Sunglasses,"Recycled material, cloth lining",Accessories,USA,Plastic,11.23,1935,Truck,False,True,60
+Eco Energy Drink,"Plastic bottle, filtered water",Beverage,Germany,TetraPak,16.51,17284,Truck,False,True,28
+Local Body Wash,"Sulfate-free, 200ml plastic bottle",Personal Care,China,Cardboard,1.88,17761,Truck,False,True,57
+Eco Lotion,"Biodegradable, compostable wrapper",Personal Care,Brazil,None,5.15,1094,Ship,False,True,83
+Imported Almond Milk,"Frozen, plastic wrap, processed",Food,India,Compost,7.1,5518,Truck,True,False,65
+Eco Cork Bag,"Recycled material, cloth lining",Accessories,China,Cardboard,15.79,4105,Truck,False,True,56
+Local Shampoo,"Sulfate-free, 200ml plastic bottle",Personal Care,Brazil,Paper,21.32,11158,Truck,False,True,31
+Eco Energy Drink,"TetraPak, added vitamins",Beverage,Germany,Compost,0.38,13622,Ship,False,True,68
+Organic Body Wash,"Sulfate-free, 200ml plastic bottle",Personal Care,India,None,17.03,10311,Air,False,False,36
+Local Chicken Nuggets,"Frozen, plastic wrap, processed",Food,USA,TetraPak,2.54,11084,Truck,True,True,58
+Eco Cork Bag,"Made of cork, shipped from Europe",Accessories,Portugal,None,28.09,6884,Truck,False,True,26
+Eco Recycled Sunglasses,"Recycled material, cloth lining",Accessories,China,None,20.59,14220,Air,False,True,16
+Imported Almond Milk,"Plastic-wrapped, imported, grass-fed",Food,USA,TetraPak,27.52,16571,Truck,True,True,0
+Eco Bottled Water,"TetraPak, added vitamins",Beverage,Germany,Foil,10.73,3010,Truck,False,True,68
+Imported Body Wash,"Biodegradable, compostable wrapper",Personal Care,Portugal,Paper,16.74,9436,Air,False,True,34
+Granola Bar,"Frozen, plastic wrap, processed",Food,Germany,TetraPak,11.11,8752,Ship,False,True,56
+Tofu,"Organic, non-GMO, paper-wrapped",Food,India,TetraPak,0.21,13322,Truck,False,False,74
+Organic Cork Bag,"Recycled material, cloth lining",Accessories,Germany,Cardboard,12.7,4317,Air,False,True,52
+Organic Bamboo Toothbrush,"Sulfate-free, 200ml plastic bottle",Personal Care,India,Compost,16.26,11155,Air,False,False,36
+Tofu,"Organic, non-GMO, paper-wrapped",Food,Germany,Foil,3.19,1842,Truck,False,True,86
+Cork Bag,"Recycled material, cloth lining",Accessories,India,Cardboard,2.43,16662,Truck,False,False,63
+Local Beef Steak,"Fresh, dairy-based, paper-packed",Food,Germany,Cardboard,6.99,15878,Ship,True,True,41
+Almond Milk,"Organic, non-GMO, paper-wrapped",Food,India,Foil,26.25,2093,Truck,True,False,34
+Organic Organic Juice,"Aluminum can, roasted beans",Beverage,India,Foil,22.13,3034,Ship,False,False,50
+Organic Bottled Water,"Plastic bottle, filtered water",Beverage,USA,Cardboard,19.09,12895,Air,False,True,22
+Eco Bamboo Toothbrush,"Biodegradable, compostable wrapper",Personal Care,USA,Compost,1.17,18771,Truck,False,True,56
+Deodorant,"Gel-based, recyclable bottle",Personal Care,India,Cardboard,3.87,3536,Ship,False,False,86
+Eco Cork Bag,"Reusable, printed cotton",Accessories,China,Compost,3.6,19457,Truck,False,True,50
+Eco Cold Brew Coffee,"Aluminum can, roasted beans",Beverage,Brazil,Plastic,29.78,14707,Air,False,True,0
+Imported Organic Cotton Tote,"Reusable, printed cotton",Accessories,USA,Paper,1.52,9637,Ship,False,True,73
+Chicken Nuggets,"Organic, non-GMO, paper-wrapped",Food,Germany,None,10.52,18969,Ship,True,True,27
+Vegan Leather Wallet,"Reusable, printed cotton",Accessories,Brazil,Foil,13.69,5666,Air,False,True,47
+Imported Bottled Water,"Glass bottle, no additives",Beverage,Germany,TetraPak,24.79,17007,Air,False,True,2
+Vegan Leather Wallet,"Plastic-free, eco-friendly frame",Accessories,Germany,Paper,12.01,11154,Truck,False,True,49
+Organic Cork Bag,"Made of cork, shipped from Europe",Accessories,Portugal,None,19.25,7858,Ship,False,True,42
+Local Beef Steak,"Organic, non-GMO, paper-wrapped",Food,Brazil,Compost,17.08,17183,Ship,True,True,17
+Cork Bag,"Recycled material, cloth lining",Accessories,Germany,Plastic,24.34,4893,Air,False,True,18
+Local Deodorant,"Gel-based, recyclable bottle",Personal Care,India,Cardboard,14.45,1501,Ship,False,False,69
+Eco Beef Steak,"Plastic-wrapped, imported, grass-fed",Food,Germany,Cardboard,20.45,5339,Air,True,True,25
+Eco Body Wash,"Fragrance-free, paper tube",Personal Care,Portugal,Foil,1.03,1179,Air,False,True,81
+Local Energy Drink,"Glass bottle, no additives",Beverage,Germany,None,13.14,5111,Ship,False,True,59
+Organic Cotton Tote,"Recycled material, cloth lining",Accessories,China,Compost,5.35,18736,Truck,False,True,48
+Imported Local Apples,"Farm-grown, no packaging",Food,China,None,15.32,14876,Truck,False,True,36
+Body Wash,"Gel-based, recyclable bottle",Personal Care,Germany,Foil,25.77,19767,Air,False,True,0
+Organic Energy Drink,"TetraPak, added vitamins",Beverage,Brazil,Cardboard,22.19,16259,Truck,False,True,19
+Organic Shampoo,"Fragrance-free, paper tube",Personal Care,Brazil,Compost,6.63,1958,Ship,False,True,79
+Local Cork Bag,"Plastic-free, eco-friendly frame",Accessories,Germany,Plastic,18.73,1506,Ship,False,True,45
+Paneer,"Frozen, plastic wrap, processed",Food,China,Compost,13.58,2006,Air,True,True,44
+Local Bottled Water,"TetraPak, added vitamins",Beverage,Germany,Foil,12.58,13925,Truck,False,True,43
+Organic Juice,"TetraPak, added vitamins",Beverage,China,Cardboard,0.25,18786,Air,False,True,48
+Local Cork Bag,"Made of cork, shipped from Europe",Accessories,Germany,Cardboard,5.56,8285,Air,False,True,58
+Organic Paneer,"Plastic-wrapped, imported, grass-fed",Food,Portugal,Compost,25.5,11750,Truck,True,True,11
+Local Deodorant,"Fragrance-free, paper tube",Personal Care,Germany,TetraPak,15.09,1452,Air,False,True,53
+Local Organic Juice,"Glass bottle, no additives",Beverage,China,Plastic,11.75,14777,Truck,False,True,33
+Organic Bottled Water,"Plastic bottle, filtered water",Beverage,Portugal,Glass,15.54,11586,Truck,False,True,41
+Organic Recycled Sunglasses,"Plastic-free, eco-friendly frame",Accessories,Portugal,Paper,1.88,13714,Air,False,True,55
+Almond Milk,"Vegan, packaged in TetraPak",Food,USA,Cardboard,20.42,11748,Truck,True,True,22
+Local Vegan Leather Wallet,"Recycled material, cloth lining",Accessories,Portugal,TetraPak,11.7,1631,Air,False,True,59
+Eco Lotion,"Biodegradable, compostable wrapper",Personal Care,India,Cardboard,15.85,18831,Ship,False,False,32
+Local Bamboo Toothbrush,"Biodegradable, compostable wrapper",Personal Care,Portugal,Compost,12.54,14527,Ship,False,True,41
+Organic Shampoo,"Plastic case, roll-on type",Personal Care,China,Compost,0.27,11428,Ship,False,True,73
+Eco Bamboo Toothbrush,"Fragrance-free, paper tube",Personal Care,Germany,None,2.01,14370,Truck,False,True,63
+Imported Recycled Sunglasses,"Recycled material, cloth lining",Accessories,Brazil,TetraPak,16.48,4032,Ship,False,True,55
+Organic Lotion,"Sulfate-free, 200ml plastic bottle",Personal Care,USA,Plastic,27.87,154,Truck,False,True,30
+Imported Body Wash,"Plastic case, roll-on type",Personal Care,China,Cardboard,7.74,17553,Air,False,True,35
+Local Bottled Water,"Glass bottle, no additives",Beverage,Germany,Foil,4.45,9899,Ship,False,True,68
+Local Tofu,"Fresh, dairy-based, paper-packed",Food,India,Compost,16.01,18898,Ship,False,False,31
+Imported Chicken Nuggets,"Plastic-wrapped, imported, grass-fed",Food,Germany,Paper,7.69,1349,Air,True,True,58
+Imported Bottled Water,"TetraPak, added vitamins",Beverage,USA,Foil,5.39,3137,Truck,False,True,79
+Organic Juice,"TetraPak, added vitamins",Beverage,Brazil,Glass,24.26,9148,Truck,False,True,29
+Eco Organic Juice,"Plastic bottle, filtered water",Beverage,China,Foil,2.59,17709,Ship,False,True,55
+Imported Recycled Sunglasses,"Plastic-free, eco-friendly frame",Accessories,China,TetraPak,12.51,16506,Ship,False,True,37
+Local Granola Bar,"Mixed nuts, oats, wrapped in foil",Food,India,Cardboard,8.26,15044,Air,False,False,44
+Local Apples,"Vegan, packaged in TetraPak",Food,India,Glass,4.95,16435,Air,False,False,49
+Bamboo Toothbrush,"Plastic case, roll-on type",Personal Care,Germany,None,22.56,19575,Air,False,True,1
+Local Almond Milk,"Plastic-wrapped, imported, grass-fed",Food,Portugal,TetraPak,23.34,19959,Truck,True,True,0
+Organic Tofu,"Farm-grown, no packaging",Food,Brazil,Paper,23.69,9243,Ship,False,True,30
+Cold Brew Coffee,"TetraPak, added vitamins",Beverage,USA,Paper,18.63,363,Air,False,True,48
+Body Wash,"Gel-based, recyclable bottle",Personal Care,Brazil,Foil,17.84,6082,Truck,False,True,48
+Local Almond Milk,"Farm-grown, no packaging",Food,China,Compost,3.73,14226,Air,True,True,40
+Eco Bottled Water,"Aluminum can, roasted beans",Beverage,Brazil,Paper,18.97,4441,Air,False,True,40
+Local Organic Cotton Tote,"Plastic-free, eco-friendly frame",Accessories,China,Paper,2.54,7810,Air,False,True,65
+Organic Cork Bag,"Recycled material, cloth lining",Accessories,Portugal,Compost,29.59,4080,Ship,False,True,28
+Imported Almond Milk,"Vegan, packaged in TetraPak",Food,Brazil,None,3.97,1484,Air,True,True,66
+Organic Shampoo,"Biodegradable, compostable wrapper",Personal Care,Germany,Plastic,10.06,8566,Truck,False,True,48
+Almond Milk,"Organic, non-GMO, paper-wrapped",Food,Germany,Cardboard,16.8,11160,Ship,True,True,30
+Organic Granola Bar,"Mixed nuts, oats, wrapped in foil",Food,Portugal,Foil,6.65,7275,Truck,False,True,68
+Eco Shampoo,"Gel-based, recyclable bottle",Personal Care,China,Compost,8.81,3449,Ship,False,True,72
+Eco Bottled Water,"TetraPak, added vitamins",Beverage,Brazil,Plastic,10.8,8857,Ship,False,True,47
+Organic Shampoo,"Biodegradable, compostable wrapper",Personal Care,Portugal,Plastic,17.1,9032,Ship,False,True,33
+Organic Organic Cotton Tote,"Plastic-free, eco-friendly frame",Accessories,Germany,Compost,17.89,5639,Ship,False,True,49
+Cork Bag,"Plastic-free, eco-friendly frame",Accessories,Brazil,None,9.51,2569,Ship,False,True,71
+Imported Shampoo,"Fragrance-free, paper tube",Personal Care,Germany,Paper,29.19,6702,Air,False,True,14
+Local Lotion,"Plastic case, roll-on type",Personal Care,USA,Foil,11.73,1699,Air,False,True,59
+Shampoo,"Fragrance-free, paper tube",Personal Care,China,Paper,6.47,17739,Truck,False,True,48
+Organic Almond Milk,"Mixed nuts, oats, wrapped in foil",Food,Portugal,Glass,25.09,13886,Truck,True,True,8
+Local Recycled Sunglasses,"Reusable, printed cotton",Accessories,Germany,Plastic,20.34,18912,Ship,False,True,8
+Organic Beef Steak,"Frozen, plastic wrap, processed",Food,USA,Paper,7.27,11620,Truck,True,True,48
+Lotion,"Gel-based, recyclable bottle",Personal Care,Brazil,Paper,5.9,9309,Truck,False,True,66
+Eco Beef Steak,"Farm-grown, no packaging",Food,Germany,Cardboard,20.45,8860,Truck,True,True,28
+Almond Milk,"Vegan, packaged in TetraPak",Food,India,Paper,18.13,1605,Ship,True,False,51
+Imported Bamboo Toothbrush,"Gel-based, recyclable bottle",Personal Care,Germany,Cardboard,2.51,13092,Air,False,True,54
+Organic Tofu,"Farm-grown, no packaging",Food,Germany,Cardboard,16.86,7805,Ship,False,True,47
+Local Organic Cotton Tote,"Recycled material, cloth lining",Accessories,USA,Foil,28.2,11133,Ship,False,True,17
+Imported Chicken Nuggets,"Organic, non-GMO, paper-wrapped",Food,Germany,Cardboard,22.26,13680,Truck,True,True,14
+Organic Vegan Leather Wallet,"Made of cork, shipped from Europe",Accessories,India,Glass,26.59,8142,Air,False,False,21
+Vegan Leather Wallet,"Recycled material, cloth lining",Accessories,India,None,16.82,12035,Air,False,False,33
+Local Paneer,"Fresh, dairy-based, paper-packed",Food,India,Paper,20.47,9911,Ship,True,False,31
+Local Shampoo,"Biodegradable, compostable wrapper",Personal Care,USA,Compost,13.85,3019,Ship,False,True,62
+Imported Tofu,"Farm-grown, no packaging",Food,China,Plastic,29.87,4965,Truck,False,True,17
+Organic Tofu,"Organic, non-GMO, paper-wrapped",Food,USA,Cardboard,7.19,5713,Ship,False,True,70
+Local Apples,"Frozen, plastic wrap, processed",Food,USA,None,8.83,13290,Ship,False,True,52
+Imported Cork Bag,"Reusable, printed cotton",Accessories,Portugal,Cardboard,12.69,7055,Truck,False,True,56
+Organic Vegan Leather Wallet,"Plastic-free, eco-friendly frame",Accessories,India,None,13.15,6866,Truck,False,False,61
+Organic Lotion,"Plastic case, roll-on type",Personal Care,Brazil,Glass,10.41,14039,Air,False,True,37
+Local Paneer,"Frozen, plastic wrap, processed",Food,Brazil,Cardboard,8.44,2005,Air,True,True,55
+Organic Chicken Nuggets,"Mixed nuts, oats, wrapped in foil",Food,Germany,TetraPak,3.74,12303,Truck,True,True,54
+Eco Cork Bag,"Recycled material, cloth lining",Accessories,India,Cardboard,18.67,9906,Air,False,False,34
+Cork Bag,"Plastic-free, eco-friendly frame",Accessories,India,Foil,11.75,9117,Ship,False,False,59
+Organic Body Wash,"Biodegradable, compostable wrapper",Personal Care,China,Cardboard,16.24,16795,Ship,False,True,30
+Local Organic Juice,"TetraPak, added vitamins",Beverage,Brazil,Cardboard,27.72,6538,Truck,False,True,27
+Eco Body Wash,"Gel-based, recyclable bottle",Personal Care,China,None,24.46,752,Truck,False,True,46
+Local Paneer,"Plastic-wrapped, imported, grass-fed",Food,China,TetraPak,10.46,10543,Truck,True,True,44
+Imported Shampoo,"Sulfate-free, 200ml plastic bottle",Personal Care,China,TetraPak,23.89,6859,Air,False,True,25
+Imported Recycled Sunglasses,"Reusable, printed cotton",Accessories,Brazil,Glass,1.0,436,Truck,False,True,93
+Granola Bar,"Mixed nuts, oats, wrapped in foil",Food,Portugal,None,9.54,14709,Ship,False,True,47
+Imported Energy Drink,"Plastic bottle, filtered water",Beverage,Brazil,Glass,4.05,6945,Ship,False,True,74
+Organic Energy Drink,"Plastic bottle, filtered water",Beverage,Brazil,Plastic,24.36,88,Truck,False,True,37
+Eco Local Apples,"Fresh, dairy-based, paper-packed",Food,Brazil,TetraPak,12.39,854,Ship,False,True,70
+Eco Recycled Sunglasses,"Reusable, printed cotton",Accessories,India,Compost,7.76,11018,Ship,False,False,63
+Eco Cold Brew Coffee,"Aluminum can, roasted beans",Beverage,Portugal,Foil,6.87,16493,Ship,False,True,50
+Local Cold Brew Coffee,"Aluminum can, roasted beans",Beverage,India,Paper,14.32,16514,Ship,False,False,39
+Local Chicken Nuggets,"Fresh, dairy-based, paper-packed",Food,USA,Glass,21.55,7691,Air,True,True,17
+Imported Bottled Water,"Glass bottle, no additives",Beverage,India,Glass,21.78,14235,Air,False,False,19
+Imported Organic Juice,"Aluminum can, roasted beans",Beverage,Portugal,Foil,10.76,8078,Air,False,True,48
+Local Vegan Leather Wallet,"Recycled material, cloth lining",Accessories,Brazil,Plastic,27.37,13743,Ship,False,True,4
+Vegan Leather Wallet,"Made of cork, shipped from Europe",Accessories,Germany,Foil,6.03,14022,Ship,False,True,55
+Bottled Water,"Plastic bottle, filtered water",Beverage,China,TetraPak,21.59,14468,Truck,False,True,24
+Organic Energy Drink,"TetraPak, added vitamins",Beverage,USA,Paper,4.84,6637,Truck,False,True,73
+Eco Recycled Sunglasses,"Plastic-free, eco-friendly frame",Accessories,Brazil,Paper,11.53,16857,Truck,False,True,39
+Local Cork Bag,"Made of cork, shipped from Europe",Accessories,India,Paper,18.3,8881,Air,False,False,37
+Organic Body Wash,"Gel-based, recyclable bottle",Personal Care,India,TetraPak,6.78,6531,Ship,False,False,74
+Organic Cold Brew Coffee,"Glass bottle, no additives",Beverage,India,Foil,2.3,2829,Truck,False,False,91
+Organic Organic Juice,"TetraPak, added vitamins",Beverage,India,Plastic,14.31,7471,Truck,False,False,48
+Organic Deodorant,"Plastic case, roll-on type",Personal Care,Portugal,Plastic,3.1,13589,Ship,False,True,52
+Local Organic Cotton Tote,"Recycled material, cloth lining",Accessories,India,Paper,7.4,3684,Truck,False,False,79
+Imported Paneer,"Plastic-wrapped, imported, grass-fed",Food,India,Paper,18.3,12021,Air,True,False,20
+Eco Bamboo Toothbrush,"Biodegradable, compostable wrapper",Personal Care,China,Plastic,20.03,6246,Truck,False,True,33
+Imported Cold Brew Coffee,"Glass bottle, no additives",Beverage,India,Glass,7.03,3998,Ship,False,False,79
+Almond Milk,"Organic, non-GMO, paper-wrapped",Food,Portugal,None,3.49,17693,Truck,True,True,44
+Organic Cold Brew Coffee,"TetraPak, added vitamins",Beverage,USA,Cardboard,6.98,2435,Truck,False,True,78
+Local Vegan Leather Wallet,"Recycled material, cloth lining",Accessories,Portugal,None,7.08,19748,Air,False,True,32
+Organic Energy Drink,"TetraPak, added vitamins",Beverage,China,TetraPak,16.2,11331,Air,False,True,31
+Eco Bottled Water,"Glass bottle, no additives",Beverage,Germany,TetraPak,11.7,11119,Air,False,True,40
+Organic Energy Drink,"TetraPak, added vitamins",Beverage,Germany,Foil,20.75,9815,Ship,False,True,35
+Eco Organic Cotton Tote,"Recycled material, cloth lining",Accessories,China,Cardboard,6.34,7567,Ship,False,True,68
+Energy Drink,"Aluminum can, roasted beans",Beverage,India,Foil,10.74,11213,Air,False,False,47
+Eco Local Apples,"Fresh, dairy-based, paper-packed",Food,USA,Paper,6.79,765,Truck,False,True,81
+Vegan Leather Wallet,"Plastic-free, eco-friendly frame",Accessories,USA,Paper,28.61,12559,Ship,False,True,13
+Local Organic Cotton Tote,"Plastic-free, eco-friendly frame",Accessories,Brazil,None,27.84,766,Truck,False,True,39
+Local Shampoo,"Gel-based, recyclable bottle",Personal Care,China,Foil,29.12,6412,Ship,False,True,25
+Eco Beef Steak,"Frozen, plastic wrap, processed",Food,Portugal,Glass,16.62,4592,Ship,True,True,43
+Eco Beef Steak,"Farm-grown, no packaging",Food,India,TetraPak,6.96,18543,Air,True,False,30
+Recycled Sunglasses,"Reusable, printed cotton",Accessories,India,Paper,1.56,19730,Air,False,False,48
+Imported Local Apples,"Plastic-wrapped, imported, grass-fed",Food,Brazil,Paper,8.65,17146,Ship,False,True,44
+Imported Energy Drink,"Aluminum can, roasted beans",Beverage,USA,Plastic,27.45,8475,Air,False,True,5
+Local Body Wash,"Sulfate-free, 200ml plastic bottle",Personal Care,Portugal,None,7.3,15956,Truck,False,True,50
+Bottled Water,"Plastic bottle, filtered water",Beverage,Brazil,Paper,28.61,1332,Ship,False,True,36
+Imported Beef Steak,"Mixed nuts, oats, wrapped in foil",Food,Germany,Glass,5.05,18699,Ship,True,True,38
+Eco Cold Brew Coffee,"Aluminum can, roasted beans",Beverage,India,Paper,5.36,16611,Ship,False,False,57
+Deodorant,"Fragrance-free, paper tube",Personal Care,Germany,Foil,4.24,16641,Ship,False,True,54
+Local Organic Cotton Tote,"Made of cork, shipped from Europe",Accessories,India,Cardboard,22.32,14687,Ship,False,False,27
+Local Cork Bag,"Plastic-free, eco-friendly frame",Accessories,Germany,Plastic,25.32,9320,Truck,False,True,17
+Organic Organic Cotton Tote,"Made of cork, shipped from Europe",Accessories,Germany,TetraPak,23.95,16580,Ship,False,True,15
+Chicken Nuggets,"Farm-grown, no packaging",Food,China,Glass,13.91,18343,Ship,True,True,22
+Local Beef Steak,"Farm-grown, no packaging",Food,India,Glass,4.61,19174,Truck,True,False,43
+Eco Organic Cotton Tote,"Recycled material, cloth lining",Accessories,USA,Glass,5.42,7580,Ship,False,True,70
+Local Lotion,"Fragrance-free, paper tube",Personal Care,China,Glass,11.44,3425,Air,False,True,57
+Cold Brew Coffee,"Aluminum can, roasted beans",Beverage,USA,Foil,12.56,15539,Ship,False,True,39
+Imported Organic Juice,"TetraPak, added vitamins",Beverage,Portugal,Plastic,8.5,338,Ship,False,True,68
+Local Vegan Leather Wallet,"Made of cork, shipped from Europe",Accessories,Portugal,Compost,5.6,14690,Air,False,True,45
+Imported Paneer,"Frozen, plastic wrap, processed",Food,USA,TetraPak,6.54,2118,Ship,True,True,68
+Local Cold Brew Coffee,"Plastic bottle, filtered water",Beverage,USA,Plastic,3.87,2658,Air,False,True,63
+Organic Energy Drink,"Glass bottle, no additives",Beverage,Germany,TetraPak,5.76,11358,Air,False,True,52
+Paneer,"Farm-grown, no packaging",Food,China,Foil,29.05,14521,Air,True,True,0
+Local Deodorant,"Plastic case, roll-on type",Personal Care,China,None,2.34,3351,Air,False,True,75
+Deodorant,"Biodegradable, compostable wrapper",Personal Care,Germany,Glass,4.98,10618,Truck,False,True,65
+Eco Organic Cotton Tote,"Made of cork, shipped from Europe",Accessories,Germany,TetraPak,15.29,19780,Air,False,True,16
+Recycled Sunglasses,"Made of cork, shipped from Europe",Accessories,Brazil,Compost,14.57,3060,Air,False,True,50
+Eco Paneer,"Fresh, dairy-based, paper-packed",Food,Brazil,Plastic,22.28,6385,Ship,True,True,19
+Eco Recycled Sunglasses,"Recycled material, cloth lining",Accessories,Portugal,Foil,5.07,284,Truck,False,True,85
+Eco Granola Bar,"Plastic-wrapped, imported, grass-fed",Food,Germany,Cardboard,29.02,15986,Air,False,True,0
+Imported Bamboo Toothbrush,"Biodegradable, compostable wrapper",Personal Care,Portugal,Glass,0.59,6908,Truck,False,True,81
+Imported Bottled Water,"Aluminum can, roasted beans",Beverage,Portugal,TetraPak,24.36,11955,Truck,False,True,24
+Imported Bottled Water,"Glass bottle, no additives",Beverage,India,None,0.96,6441,Air,False,False,77
+Paneer,"Farm-grown, no packaging",Food,Portugal,Paper,6.06,16787,Ship,True,True,40
+Eco Body Wash,"Fragrance-free, paper tube",Personal Care,Brazil,None,13.95,9690,Truck,False,True,49
+Organic Bamboo Toothbrush,"Sulfate-free, 200ml plastic bottle",Personal Care,Portugal,Paper,16.77,7603,Ship,False,True,47
+Organic Cotton Tote,"Recycled material, cloth lining",Accessories,Germany,Cardboard,8.93,11068,Air,False,True,46
+Local Lotion,"Gel-based, recyclable bottle",Personal Care,Portugal,Glass,3.21,19347,Air,False,True,41
+Local Energy Drink,"Aluminum can, roasted beans",Beverage,Germany,Glass,14.83,3077,Truck,False,True,60
+Local Cold Brew Coffee,"Glass bottle, no additives",Beverage,China,None,3.79,11314,Ship,False,True,66
+Organic Tofu,"Mixed nuts, oats, wrapped in foil",Food,China,Compost,23.96,5827,Truck,False,True,37
+Cork Bag,"Made of cork, shipped from Europe",Accessories,Portugal,Glass,3.45,2652,Truck,False,True,84
+Imported Recycled Sunglasses,"Plastic-free, eco-friendly frame",Accessories,Germany,Foil,10.27,2432,Truck,False,True,71
+Organic Cork Bag,"Recycled material, cloth lining",Accessories,Brazil,Glass,5.57,18364,Truck,False,True,48
+Eco Cork Bag,"Made of cork, shipped from Europe",Accessories,Germany,TetraPak,12.79,7730,Ship,False,True,55
+Organic Bottled Water,"Glass bottle, no additives",Beverage,Germany,Cardboard,23.72,11639,Air,False,True,15
+Imported Local Apples,"Vegan, packaged in TetraPak",Food,India,Paper,5.67,4826,Ship,False,False,80
+Organic Vegan Leather Wallet,"Plastic-free, eco-friendly frame",Accessories,India,Foil,17.41,10428,Truck,False,False,46
+Imported Cork Bag,"Recycled material, cloth lining",Accessories,Portugal,Foil,28.14,17791,Air,False,True,0
+Cork Bag,"Reusable, printed cotton",Accessories,Portugal,TetraPak,11.72,15969,Air,False,True,31
+Eco Deodorant,"Biodegradable, compostable wrapper",Personal Care,USA,Compost,26.15,6964,Air,False,True,20
+Local Recycled Sunglasses,"Made of cork, shipped from Europe",Accessories,USA,Glass,29.75,6343,Truck,False,True,24
+Eco Almond Milk,"Plastic-wrapped, imported, grass-fed",Food,India,Compost,4.21,16019,Ship,True,False,50
+Organic Deodorant,"Gel-based, recyclable bottle",Personal Care,Germany,None,16.14,19926,Ship,False,True,24
+Local Paneer,"Vegan, packaged in TetraPak",Food,India,None,15.26,12218,Air,True,False,26
+Organic Granola Bar,"Fresh, dairy-based, paper-packed",Food,USA,Compost,10.76,4413,Ship,False,True,66
+Organic Energy Drink,"TetraPak, added vitamins",Beverage,USA,None,4.89,13346,Air,False,True,50
+Organic Almond Milk,"Farm-grown, no packaging",Food,China,TetraPak,24.24,1176,Air,True,True,25
+Local Energy Drink,"TetraPak, added vitamins",Beverage,China,Plastic,14.88,185,Truck,False,True,56
+Organic Energy Drink,"Plastic bottle, filtered water",Beverage,USA,Foil,11.61,13640,Ship,False,True,45
+Shampoo,"Fragrance-free, paper tube",Personal Care,India,Plastic,9.14,10708,Air,False,False,41
+Eco Tofu,"Frozen, plastic wrap, processed",Food,India,Glass,23.92,8000,Ship,False,False,37
+Imported Energy Drink,"TetraPak, added vitamins",Beverage,Brazil,Foil,4.19,16991,Truck,False,True,54
+Organic Tofu,"Farm-grown, no packaging",Food,USA,Cardboard,14.62,14654,Air,False,True,27
+Eco Deodorant,"Fragrance-free, paper tube",Personal Care,Brazil,TetraPak,16.24,18127,Air,False,True,17
+Organic Cold Brew Coffee,"Plastic bottle, filtered water",Beverage,Portugal,Glass,24.56,1547,Ship,False,True,43
+Eco Shampoo,"Sulfate-free, 200ml plastic bottle",Personal Care,China,Glass,10.08,8788,Ship,False,True,58
+Bamboo Toothbrush,"Gel-based, recyclable bottle",Personal Care,India,Compost,23.62,7953,Air,False,False,28
+Imported Organic Cotton Tote,"Made of cork, shipped from Europe",Accessories,USA,Foil,28.1,7134,Ship,False,True,25
+Local Body Wash,"Plastic case, roll-on type",Personal Care,Germany,None,16.15,2666,Air,False,True,48
+Organic Shampoo,"Gel-based, recyclable bottle",Personal Care,India,Paper,16.58,18719,Ship,False,False,30
+Tofu,"Plastic-wrapped, imported, grass-fed",Food,Germany,None,4.93,8384,Truck,False,True,70
+Organic Chicken Nuggets,"Vegan, packaged in TetraPak",Food,Germany,Glass,18.41,13588,Ship,True,True,22
+Shampoo,"Gel-based, recyclable bottle",Personal Care,Portugal,TetraPak,7.11,7803,Ship,False,True,66
+Eco Beef Steak,"Mixed nuts, oats, wrapped in foil",Food,Portugal,Foil,23.98,19091,Air,True,True,0
+Imported Cold Brew Coffee,"Glass bottle, no additives",Beverage,Germany,Paper,25.37,18578,Truck,False,True,8
+Local Deodorant,"Fragrance-free, paper tube",Personal Care,Brazil,Glass,16.23,17609,Air,False,True,18
+Organic Tofu,"Vegan, packaged in TetraPak",Food,USA,None,10.19,8638,Truck,False,True,58
+Organic Cold Brew Coffee,"TetraPak, added vitamins",Beverage,USA,Foil,27.25,3637,Truck,False,True,34
+Vegan Leather Wallet,"Plastic-free, eco-friendly frame",Accessories,USA,Compost,21.07,14726,Ship,False,True,24
+Deodorant,"Gel-based, recyclable bottle",Personal Care,Portugal,Foil,26.95,19070,Truck,False,True,4
+Eco Chicken Nuggets,"Plastic-wrapped, imported, grass-fed",Food,Germany,Foil,6.65,15462,Truck,True,True,42
+Local Cold Brew Coffee,"Aluminum can, roasted beans",Beverage,Portugal,Glass,9.42,6497,Air,False,True,55
+Local Almond Milk,"Frozen, plastic wrap, processed",Food,India,Cardboard,28.03,10233,Ship,True,False,14
+Imported Bottled Water,"TetraPak, added vitamins",Beverage,India,Plastic,17.04,2144,Ship,False,False,52
+Imported Bottled Water,"Aluminum can, roasted beans",Beverage,India,None,16.03,8847,Truck,False,False,51
+Organic Juice,"Plastic bottle, filtered water",Beverage,Brazil,None,29.06,3076,Ship,False,True,31
+Local Organic Juice,"Aluminum can, roasted beans",Beverage,Germany,Paper,15.03,19428,Ship,False,True,27
+Imported Organic Cotton Tote,"Made of cork, shipped from Europe",Accessories,Brazil,Foil,2.48,18391,Truck,False,True,55
+Organic Tofu,"Fresh, dairy-based, paper-packed",Food,Germany,TetraPak,23.37,8113,Truck,False,True,33
+Local Deodorant,"Plastic case, roll-on type",Personal Care,Portugal,Plastic,2.0,14607,Ship,False,True,52
+Local Deodorant,"Biodegradable, compostable wrapper",Personal Care,USA,Plastic,16.77,6836,Truck,False,True,39
+Body Wash,"Gel-based, recyclable bottle",Personal Care,China,Glass,26.59,9594,Truck,False,True,23
+Eco Deodorant,"Plastic case, roll-on type",Personal Care,USA,None,16.81,2333,Ship,False,True,58
+Cold Brew Coffee,"Plastic bottle, filtered water",Beverage,Portugal,Cardboard,18.29,13122,Air,False,True,23
+Vegan Leather Wallet,"Reusable, printed cotton",Accessories,Brazil,Cardboard,0.3,7596,Air,False,True,70
+Granola Bar,"Frozen, plastic wrap, processed",Food,India,None,3.56,15514,Truck,False,False,62
+Imported Organic Juice,"Plastic bottle, filtered water",Beverage,Germany,Plastic,27.66,15359,Truck,False,True,0
+Local Organic Cotton Tote,"Reusable, printed cotton",Accessories,China,None,12.48,3895,Truck,False,True,64
+Organic Cotton Tote,"Reusable, printed cotton",Accessories,China,TetraPak,3.25,1414,Ship,False,True,87
+Eco Energy Drink,"Plastic bottle, filtered water",Beverage,Brazil,Plastic,17.61,3547,Ship,False,True,43
+Organic Tofu,"Mixed nuts, oats, wrapped in foil",Food,USA,Cardboard,18.72,16219,Air,False,True,16
+Eco Bottled Water,"Plastic bottle, filtered water",Beverage,India,Compost,26.88,15901,Air,False,False,6
+Local Body Wash,"Biodegradable, compostable wrapper",Personal Care,Brazil,Foil,9.82,7946,Ship,False,True,61
+Local Energy Drink,"Glass bottle, no additives",Beverage,China,Plastic,19.17,12321,Truck,False,True,23
+Local Beef Steak,"Mixed nuts, oats, wrapped in foil",Food,China,Plastic,15.96,10308,Ship,True,True,24
+Organic Bamboo Toothbrush,"Biodegradable, compostable wrapper",Personal Care,Germany,Glass,27.39,16559,Air,False,True,0
+Local Apples,"Vegan, packaged in TetraPak",Food,China,Plastic,10.41,18171,Air,False,True,19
+Organic Lotion,"Fragrance-free, paper tube",Personal Care,India,Foil,12.94,18259,Ship,False,False,39
+Local Paneer,"Vegan, packaged in TetraPak",Food,China,Compost,9.69,5375,Air,True,True,46
+Local Recycled Sunglasses,"Plastic-free, eco-friendly frame",Accessories,Germany,Compost,25.17,10169,Truck,False,True,25
+Eco Bottled Water,"Plastic bottle, filtered water",Beverage,China,Glass,21.28,19892,Air,False,True,4
+Organic Granola Bar,"Vegan, packaged in TetraPak",Food,Portugal,Foil,14.76,16384,Air,False,True,24
+Shampoo,"Biodegradable, compostable wrapper",Personal Care,Germany,TetraPak,1.68,1401,Air,False,True,80
+Imported Shampoo,"Biodegradable, compostable wrapper",Personal Care,Portugal,None,13.06,12725,Air,False,True,34
+Eco Chicken Nuggets,"Organic, non-GMO, paper-wrapped",Food,USA,Plastic,10.86,14738,Truck,True,True,25
+Organic Granola Bar,"Vegan, packaged in TetraPak",Food,Germany,None,29.24,9539,Ship,False,True,18
+Imported Bottled Water,"Plastic bottle, filtered water",Beverage,China,Paper,18.56,3288,Truck,False,True,52
+Bamboo Toothbrush,"Gel-based, recyclable bottle",Personal Care,USA,None,23.0,5791,Air,False,True,28
+Local Deodorant,"Biodegradable, compostable wrapper",Personal Care,USA,Paper,24.74,7057,Truck,False,True,32
+Organic Shampoo,"Plastic case, roll-on type",Personal Care,China,Paper,3.69,13074,Air,False,True,52
+Organic Cotton Tote,"Recycled material, cloth lining",Accessories,USA,Cardboard,6.01,11117,Air,False,True,51
+Eco Bottled Water,"Glass bottle, no additives",Beverage,Germany,TetraPak,10.69,13962,Ship,False,True,47
+Local Lotion,"Fragrance-free, paper tube",Personal Care,India,Foil,20.06,14154,Truck,False,False,32
+Local Cork Bag,"Recycled material, cloth lining",Accessories,India,Plastic,24.23,6627,Truck,False,False,29
+Imported Beef Steak,"Fresh, dairy-based, paper-packed",Food,Germany,Compost,9.55,15586,Ship,True,True,35
+Imported Recycled Sunglasses,"Recycled material, cloth lining",Accessories,Portugal,Paper,25.07,13711,Truck,False,True,18
+Organic Deodorant,"Sulfate-free, 200ml plastic bottle",Personal Care,Brazil,Plastic,3.28,5534,Truck,False,True,68
+Imported Bamboo Toothbrush,"Biodegradable, compostable wrapper",Personal Care,USA,TetraPak,22.57,4489,Ship,False,True,42
+Eco Local Apples,"Farm-grown, no packaging",Food,USA,Foil,14.51,8041,Air,False,True,40
+Local Body Wash,"Plastic case, roll-on type",Personal Care,Portugal,TetraPak,15.26,13832,Truck,False,True,38
+Local Organic Cotton Tote,"Reusable, printed cotton",Accessories,Portugal,Compost,11.13,2169,Truck,False,True,69
+Imported Energy Drink,"Plastic bottle, filtered water",Beverage,China,Paper,9.05,11183,Truck,False,True,55
+Imported Body Wash,"Biodegradable, compostable wrapper",Personal Care,Brazil,Cardboard,17.2,8577,Truck,False,True,44
+Eco Almond Milk,"Farm-grown, no packaging",Food,Portugal,Compost,8.69,12417,Air,True,True,34
+Organic Chicken Nuggets,"Plastic-wrapped, imported, grass-fed",Food,Portugal,Glass,6.15,7524,Ship,True,True,58
+Local Organic Juice,"Aluminum can, roasted beans",Beverage,Portugal,Glass,2.72,9214,Ship,False,True,72
+Organic Paneer,"Farm-grown, no packaging",Food,China,Glass,15.91,18431,Ship,True,True,18
+Imported Bamboo Toothbrush,"Biodegradable, compostable wrapper",Personal Care,China,Glass,1.2,11161,Ship,False,True,71
+Eco Cork Bag,"Reusable, printed cotton",Accessories,USA,TetraPak,13.88,15619,Air,False,True,27
+Local Granola Bar,"Farm-grown, no packaging",Food,Germany,Plastic,22.08,13209,Truck,False,True,15
+Imported Bamboo Toothbrush,"Fragrance-free, paper tube",Personal Care,Portugal,Plastic,14.22,7239,Truck,False,True,43
+Local Almond Milk,"Plastic-wrapped, imported, grass-fed",Food,USA,Cardboard,1.07,8518,Truck,True,True,66
+Organic Vegan Leather Wallet,"Reusable, printed cotton",Accessories,Portugal,Cardboard,16.56,6077,Ship,False,True,50
+Shampoo,"Biodegradable, compostable wrapper",Personal Care,Portugal,None,17.09,16534,Ship,False,True,28
+Eco Almond Milk,"Vegan, packaged in TetraPak",Food,India,Plastic,2.58,12890,Truck,True,False,50
+Imported Energy Drink,"Aluminum can, roasted beans",Beverage,Portugal,Glass,26.0,16779,Truck,False,True,10
+Imported Organic Juice,"Aluminum can, roasted beans",Beverage,India,Paper,2.56,3863,Air,False,False,78
+Cork Bag,"Reusable, printed cotton",Accessories,China,Foil,19.56,17488,Truck,False,True,22
+Organic Bamboo Toothbrush,"Fragrance-free, paper tube",Personal Care,USA,Cardboard,28.85,5320,Air,False,True,18
+Organic Paneer,"Mixed nuts, oats, wrapped in foil",Food,Germany,Paper,5.81,4934,Air,True,True,55
+Organic Granola Bar,"Farm-grown, no packaging",Food,India,None,13.11,16534,Air,False,False,31
+Deodorant,"Biodegradable, compostable wrapper",Personal Care,Germany,Plastic,1.69,2688,Truck,False,True,77
+Imported Organic Cotton Tote,"Recycled material, cloth lining",Accessories,Brazil,TetraPak,18.63,4529,Ship,False,True,49
+Eco Cork Bag,"Recycled material, cloth lining",Accessories,India,TetraPak,6.27,8677,Air,False,False,61
+Imported Beef Steak,"Frozen, plastic wrap, processed",Food,India,Foil,16.0,14578,Ship,True,False,29
+Imported Recycled Sunglasses,"Plastic-free, eco-friendly frame",Accessories,India,Cardboard,0.72,5493,Truck,False,False,89
+Granola Bar,"Frozen, plastic wrap, processed",Food,USA,Compost,13.48,12044,Truck,False,True,45
+Imported Energy Drink,"Plastic bottle, filtered water",Beverage,Brazil,Paper,21.59,18418,Truck,False,True,16
+Local Cold Brew Coffee,"Glass bottle, no additives",Beverage,Portugal,Cardboard,11.2,16059,Air,False,True,31
+Eco Vegan Leather Wallet,"Reusable, printed cotton",Accessories,USA,Foil,0.27,10272,Air,False,True,65
+Eco Chicken Nuggets,"Vegan, packaged in TetraPak",Food,India,Plastic,10.33,15864,Air,True,False,19
+Local Cold Brew Coffee,"Plastic bottle, filtered water",Beverage,Portugal,Foil,13.76,17050,Ship,False,True,34
+Local Local Apples,"Plastic-wrapped, imported, grass-fed",Food,India,Compost,12.08,7642,Air,False,False,51
+Imported Bottled Water,"TetraPak, added vitamins",Beverage,India,None,26.75,8662,Truck,False,False,30
+Organic Organic Juice,"Plastic bottle, filtered water",Beverage,USA,TetraPak,15.68,18280,Truck,False,True,28
+Organic Vegan Leather Wallet,"Reusable, printed cotton",Accessories,USA,Compost,24.8,19709,Ship,False,True,7
+Imported Beef Steak,"Farm-grown, no packaging",Food,Portugal,Plastic,13.73,12938,Truck,True,True,23
+Organic Recycled Sunglasses,"Made of cork, shipped from Europe",Accessories,USA,Plastic,9.33,7366,Truck,False,True,53
+Eco Local Apples,"Mixed nuts, oats, wrapped in foil",Food,Germany,Compost,27.75,15389,Truck,False,True,10
+Organic Energy Drink,"Glass bottle, no additives",Beverage,China,Cardboard,20.04,2178,Air,False,True,41
+Organic Cotton Tote,"Reusable, printed cotton",Accessories,Brazil,Foil,2.85,6709,Ship,False,True,77
+Organic Cotton Tote,"Made of cork, shipped from Europe",Accessories,India,Glass,3.27,773,Ship,False,False,93
+Eco Organic Juice,"Aluminum can, roasted beans",Beverage,Portugal,Cardboard,19.29,19444,Ship,False,True,19
+Imported Organic Juice,"Plastic bottle, filtered water",Beverage,Portugal,Glass,25.39,17578,Ship,False,True,10
+Eco Bottled Water,"Aluminum can, roasted beans",Beverage,China,Cardboard,14.61,6232,Truck,False,True,54
+Eco Organic Juice,"TetraPak, added vitamins",Beverage,Portugal,Paper,4.69,18530,Ship,False,True,49
+Local Paneer,"Farm-grown, no packaging",Food,USA,None,28.18,17443,Air,True,True,0
+Local Recycled Sunglasses,"Recycled material, cloth lining",Accessories,China,TetraPak,2.29,18556,Ship,False,True,54
+Eco Energy Drink,"Plastic bottle, filtered water",Beverage,Brazil,Glass,14.35,14649,Air,False,True,28
+Eco Energy Drink,"Plastic bottle, filtered water",Beverage,Germany,None,18.27,16315,Truck,False,True,27
+Organic Cork Bag,"Recycled material, cloth lining",Accessories,Brazil,Paper,4.35,11508,Ship,False,True,64
+Granola Bar,"Plastic-wrapped, imported, grass-fed",Food,USA,Glass,27.64,16766,Truck,False,True,7
+Local Organic Juice,"Glass bottle, no additives",Beverage,USA,Cardboard,11.93,17285,Truck,False,True,38
+Organic Organic Cotton Tote,"Recycled material, cloth lining",Accessories,Germany,Compost,26.17,4211,Air,False,True,25
+Lotion,"Biodegradable, compostable wrapper",Personal Care,China,Compost,7.22,15923,Ship,False,True,50
+Local Body Wash,"Plastic case, roll-on type",Personal Care,Portugal,Foil,21.35,1037,Air,False,True,41
+Eco Body Wash,"Biodegradable, compostable wrapper",Personal Care,Portugal,Paper,22.46,8793,Air,False,True,24
+Organic Cork Bag,"Made of cork, shipped from Europe",Accessories,China,TetraPak,27.52,14230,Air,False,True,2
+Imported Local Apples,"Organic, non-GMO, paper-wrapped",Food,USA,Paper,25.61,13936,Truck,False,True,17
+Lotion,"Gel-based, recyclable bottle",Personal Care,USA,TetraPak,24.53,4279,Truck,False,True,38
+Eco Lotion,"Biodegradable, compostable wrapper",Personal Care,India,None,29.23,2142,Ship,False,False,38
+Organic Bamboo Toothbrush,"Fragrance-free, paper tube",Personal Care,Portugal,Plastic,5.22,10542,Ship,False,True,54
+Eco Bottled Water,"Glass bottle, no additives",Beverage,India,TetraPak,6.22,14087,Ship,False,False,60
+Eco Granola Bar,"Vegan, packaged in TetraPak",Food,Brazil,TetraPak,2.08,9983,Ship,False,True,72
+Eco Body Wash,"Sulfate-free, 200ml plastic bottle",Personal Care,Germany,Plastic,15.64,1471,Truck,False,True,52
+Imported Almond Milk,"Vegan, packaged in TetraPak",Food,China,Compost,18.61,8716,Air,True,True,21
+Eco Body Wash,"Fragrance-free, paper tube",Personal Care,India,Compost,29.53,9877,Truck,False,False,22
+Imported Vegan Leather Wallet,"Plastic-free, eco-friendly frame",Accessories,Brazil,Compost,7.74,13388,Ship,False,True,54
+Organic Juice,"Glass bottle, no additives",Beverage,USA,Paper,11.12,9881,Air,False,True,44
+Chicken Nuggets,"Organic, non-GMO, paper-wrapped",Food,USA,None,21.01,14017,Truck,True,True,15
+Imported Deodorant,"Biodegradable, compostable wrapper",Personal Care,USA,Cardboard,25.81,13055,Ship,False,True,18
+Organic Shampoo,"Gel-based, recyclable bottle",Personal Care,India,Cardboard,21.96,6077,Ship,False,False,45
+Imported Recycled Sunglasses,"Reusable, printed cotton",Accessories,Brazil,TetraPak,9.22,18413,Truck,False,True,41
+Eco Beef Steak,"Farm-grown, no packaging",Food,USA,TetraPak,7.26,5641,Air,True,True,50
+Eco Organic Juice,"Glass bottle, no additives",Beverage,India,TetraPak,27.08,15096,Ship,False,False,16
+Eco Energy Drink,"Plastic bottle, filtered water",Beverage,Germany,Cardboard,9.22,2048,Truck,False,True,73
+Local Lotion,"Plastic case, roll-on type",Personal Care,USA,Foil,24.96,7688,Ship,False,True,31
+Local Energy Drink,"TetraPak, added vitamins",Beverage,China,Glass,11.29,7281,Truck,False,True,59
+Local Cold Brew Coffee,"Glass bottle, no additives",Beverage,USA,Compost,19.69,2565,Air,False,True,41
+Local Cork Bag,"Recycled material, cloth lining",Accessories,Germany,Glass,27.85,5599,Truck,False,True,29
+Organic Energy Drink,"Plastic bottle, filtered water",Beverage,Brazil,Plastic,5.82,10515,Air,False,True,43
+Imported Body Wash,"Biodegradable, compostable wrapper",Personal Care,Germany,Paper,8.35,12276,Truck,False,True,55
+Body Wash,"Sulfate-free, 200ml plastic bottle",Personal Care,Brazil,Paper,21.99,8750,Air,False,True,25
+Organic Lotion,"Biodegradable, compostable wrapper",Personal Care,Germany,TetraPak,28.78,17911,Truck,False,True,3
+Organic Cold Brew Coffee,"Aluminum can, roasted beans",Beverage,Brazil,Compost,21.42,652,Truck,False,True,52
+Imported Cold Brew Coffee,"Glass bottle, no additives",Beverage,China,None,23.07,13381,Air,False,True,13
+Imported Organic Cotton Tote,"Reusable, printed cotton",Accessories,Germany,Compost,19.1,15492,Ship,False,True,27
+Imported Cork Bag,"Recycled material, cloth lining",Accessories,Germany,Glass,23.73,10400,Air,False,True,18
+Local Organic Juice,"TetraPak, added vitamins",Beverage,India,Foil,10.53,13176,Ship,False,False,53
+Imported Cold Brew Coffee,"Glass bottle, no additives",Beverage,Portugal,Compost,3.92,19830,Air,False,True,39
+Imported Organic Juice,"TetraPak, added vitamins",Beverage,Brazil,Glass,22.75,3099,Ship,False,True,44
+Local Body Wash,"Plastic case, roll-on type",Personal Care,Germany,Glass,5.26,13314,Ship,False,True,59
+Lotion,"Fragrance-free, paper tube",Personal Care,China,Glass,8.72,17806,Ship,False,True,43
+Imported Organic Juice,"Plastic bottle, filtered water",Beverage,Germany,Compost,9.44,17507,Truck,False,True,42
+Eco Body Wash,"Biodegradable, compostable wrapper",Personal Care,Brazil,Glass,6.29,19384,Truck,False,True,45
+Organic Lotion,"Gel-based, recyclable bottle",Personal Care,Brazil,TetraPak,21.72,14020,Truck,False,True,24
+Local Recycled Sunglasses,"Plastic-free, eco-friendly frame",Accessories,USA,Foil,18.6,5694,Truck,False,True,47
+Cork Bag,"Plastic-free, eco-friendly frame",Accessories,India,Glass,22.97,16982,Ship,False,False,22
+Local Shampoo,"Plastic case, roll-on type",Personal Care,Brazil,Paper,24.41,18692,Air,False,True,0
+Local Vegan Leather Wallet,"Made of cork, shipped from Europe",Accessories,USA,None,27.14,13806,Ship,False,True,14
+Bottled Water,"Glass bottle, no additives",Beverage,Portugal,Plastic,13.28,3045,Truck,False,True,53
+Organic Deodorant,"Gel-based, recyclable bottle",Personal Care,India,Plastic,13.36,13821,Truck,False,False,37
+Local Cork Bag,"Plastic-free, eco-friendly frame",Accessories,India,Glass,14.25,1305,Air,False,False,60
+Cork Bag,"Reusable, printed cotton",Accessories,Portugal,Glass,27.37,7508,Air,False,True,16
+Organic Almond Milk,"Plastic-wrapped, imported, grass-fed",Food,Portugal,Paper,27.38,7865,Truck,True,True,16
+Local Apples,"Plastic-wrapped, imported, grass-fed",Food,USA,None,18.97,8326,Truck,False,True,42
+Eco Organic Cotton Tote,"Reusable, printed cotton",Accessories,Brazil,Cardboard,26.11,2444,Ship,False,True,39
+Eco Bottled Water,"TetraPak, added vitamins",Beverage,Brazil,TetraPak,12.68,2965,Air,False,True,55
+Vegan Leather Wallet,"Recycled material, cloth lining",Accessories,Portugal,Glass,1.77,14582,Truck,False,True,63
+Local Energy Drink,"Aluminum can, roasted beans",Beverage,India,Paper,6.74,2542,Ship,False,False,82
+Local Body Wash,"Plastic case, roll-on type",Personal Care,China,Plastic,28.91,6378,Air,False,True,6
+Organic Granola Bar,"Fresh, dairy-based, paper-packed",Food,Portugal,None,12.4,6474,Ship,False,True,59
+Deodorant,"Biodegradable, compostable wrapper",Personal Care,Brazil,Foil,25.18,9833,Air,False,True,16
+Imported Shampoo,"Sulfate-free, 200ml plastic bottle",Personal Care,India,Paper,14.91,2839,Air,False,False,56
+Organic Almond Milk,"Organic, non-GMO, paper-wrapped",Food,India,Paper,14.02,6404,Air,True,False,40
+Imported Cork Bag,"Made of cork, shipped from Europe",Accessories,USA,Glass,20.34,2685,Air,False,True,40
+Organic Organic Juice,"Plastic bottle, filtered water",Beverage,Portugal,Compost,5.22,19038,Ship,False,True,47
+Eco Bottled Water,"Plastic bottle, filtered water",Beverage,Brazil,Plastic,28.37,7895,Ship,False,True,14
+Organic Organic Juice,"Glass bottle, no additives",Beverage,India,Glass,23.79,3184,Ship,False,False,47
+Organic Shampoo,"Fragrance-free, paper tube",Personal Care,USA,TetraPak,29.46,12448,Air,False,True,3
+Imported Shampoo,"Sulfate-free, 200ml plastic bottle",Personal Care,India,Cardboard,21.68,18616,Air,False,False,10
+Local Bamboo Toothbrush,"Plastic case, roll-on type",Personal Care,Brazil,Foil,15.43,16510,Ship,False,True,32
+Eco Tofu,"Farm-grown, no packaging",Food,Germany,Compost,4.7,19038,Truck,False,True,48
+Deodorant,"Gel-based, recyclable bottle",Personal Care,Portugal,Paper,29.9,7604,Truck,False,True,21
+Imported Lotion,"Gel-based, recyclable bottle",Personal Care,Brazil,Cardboard,18.12,3725,Ship,False,True,52
+Imported Vegan Leather Wallet,"Plastic-free, eco-friendly frame",Accessories,Germany,Paper,21.39,18470,Air,False,True,7
+Eco Cork Bag,"Plastic-free, eco-friendly frame",Accessories,Portugal,None,23.33,14299,Ship,False,True,21
+Organic Juice,"TetraPak, added vitamins",Beverage,Germany,Plastic,26.47,5477,Truck,False,True,23
+Vegan Leather Wallet,"Plastic-free, eco-friendly frame",Accessories,Brazil,None,20.26,18339,Air,False,True,9
+Local Vegan Leather Wallet,"Plastic-free, eco-friendly frame",Accessories,USA,TetraPak,13.29,13534,Ship,False,True,42
+Imported Bamboo Toothbrush,"Sulfate-free, 200ml plastic bottle",Personal Care,Portugal,Paper,29.81,12513,Truck,False,True,11
+Organic Bottled Water,"Glass bottle, no additives",Beverage,India,TetraPak,16.95,5590,Ship,False,False,56
+Cold Brew Coffee,"Aluminum can, roasted beans",Beverage,China,TetraPak,2.13,6988,Ship,False,True,78
+Organic Cork Bag,"Reusable, printed cotton",Accessories,Portugal,TetraPak,6.84,16586,Truck,False,True,49
+Eco Vegan Leather Wallet,"Recycled material, cloth lining",Accessories,Germany,Cardboard,4.11,12975,Air,False,True,52
+Local Organic Juice,"TetraPak, added vitamins",Beverage,Brazil,None,0.4,9233,Air,False,True,67
+Energy Drink,"Aluminum can, roasted beans",Beverage,Portugal,Glass,10.95,6452,Truck,False,True,62
+Organic Bamboo Toothbrush,"Fragrance-free, paper tube",Personal Care,Germany,Paper,24.99,7472,Truck,False,True,32
+Organic Beef Steak,"Vegan, packaged in TetraPak",Food,Brazil,Cardboard,14.0,1786,Ship,True,True,54
+Eco Tofu,"Vegan, packaged in TetraPak",Food,Brazil,TetraPak,29.56,16386,Truck,False,True,4
+Tofu,"Mixed nuts, oats, wrapped in foil",Food,India,Glass,14.52,4452,Ship,False,False,63
+Local Local Apples,"Vegan, packaged in TetraPak",Food,India,Cardboard,15.61,15585,Ship,False,False,38
+Eco Organic Juice,"Glass bottle, no additives",Beverage,Germany,None,10.94,3011,Ship,False,True,68
+Organic Juice,"TetraPak, added vitamins",Beverage,USA,Cardboard,17.43,3852,Air,False,True,44
+Imported Bottled Water,"TetraPak, added vitamins",Beverage,India,Compost,26.31,17690,Air,False,False,3
+Organic Tofu,"Fresh, dairy-based, paper-packed",Food,Germany,None,26.37,224,Ship,False,True,43
+Cork Bag,"Plastic-free, eco-friendly frame",Accessories,Germany,TetraPak,16.45,18976,Air,False,True,16
+Local Bamboo Toothbrush,"Fragrance-free, paper tube",Personal Care,Portugal,TetraPak,28.19,6665,Truck,False,True,26
+Cold Brew Coffee,"TetraPak, added vitamins",Beverage,Germany,Foil,7.22,19259,Truck,False,True,43
+Beef Steak,"Farm-grown, no packaging",Food,USA,Compost,14.13,5996,Air,True,True,36
+Imported Cold Brew Coffee,"TetraPak, added vitamins",Beverage,USA,Plastic,5.43,3786,Truck,False,True,68
+Eco Organic Juice,"Glass bottle, no additives",Beverage,USA,Compost,29.36,12264,Truck,False,True,13
+Deodorant,"Gel-based, recyclable bottle",Personal Care,India,Foil,29.31,2901,Ship,False,False,37
+Local Deodorant,"Gel-based, recyclable bottle",Personal Care,China,None,28.01,18770,Ship,False,True,2
+Shampoo,"Gel-based, recyclable bottle",Personal Care,Germany,Cardboard,11.89,1544,Air,False,True,59
+Lotion,"Plastic case, roll-on type",Personal Care,USA,Paper,19.67,10659,Truck,False,True,35
+Eco Organic Juice,"Aluminum can, roasted beans",Beverage,USA,Glass,12.48,10353,Air,False,True,41
+Local Lotion,"Sulfate-free, 200ml plastic bottle",Personal Care,Brazil,Paper,17.17,7579,Truck,False,True,46
+Organic Beef Steak,"Organic, non-GMO, paper-wrapped",Food,Germany,TetraPak,26.84,15880,Ship,True,True,1
+Eco Chicken Nuggets,"Mixed nuts, oats, wrapped in foil",Food,USA,Paper,9.14,16977,Ship,True,True,34
+Organic Cork Bag,"Made of cork, shipped from Europe",Accessories,Germany,None,15.61,12908,Ship,False,True,39
+Organic Energy Drink,"Aluminum can, roasted beans",Beverage,India,None,23.43,1981,Truck,False,False,51
+Beef Steak,"Frozen, plastic wrap, processed",Food,China,Plastic,6.52,9791,Ship,True,True,43
+Eco Local Apples,"Frozen, plastic wrap, processed",Food,China,Plastic,22.23,13634,Ship,False,True,14
+Eco Chicken Nuggets,"Plastic-wrapped, imported, grass-fed",Food,Portugal,Plastic,29.16,1348,Truck,True,True,15
+Eco Granola Bar,"Mixed nuts, oats, wrapped in foil",Food,Portugal,Compost,8.69,1474,Ship,False,True,76
+Imported Recycled Sunglasses,"Made of cork, shipped from Europe",Accessories,India,Foil,13.24,12390,Ship,False,False,50
+Imported Chicken Nuggets,"Farm-grown, no packaging",Food,Brazil,Plastic,0.75,10931,Ship,True,True,53
+Eco Cork Bag,"Made of cork, shipped from Europe",Accessories,India,Foil,12.35,7390,Truck,False,False,62
+Recycled Sunglasses,"Recycled material, cloth lining",Accessories,Germany,Compost,23.74,17652,Air,False,True,3
+Energy Drink,"Plastic bottle, filtered water",Beverage,USA,Glass,21.11,18106,Air,False,True,7
+Cork Bag,"Plastic-free, eco-friendly frame",Accessories,USA,Cardboard,15.46,14630,Ship,False,True,36
+Imported Energy Drink,"TetraPak, added vitamins",Beverage,Portugal,Cardboard,23.27,8520,Truck,False,True,32
+Local Cold Brew Coffee,"Glass bottle, no additives",Beverage,USA,Plastic,24.6,3672,Air,False,True,19
+Eco Paneer,"Plastic-wrapped, imported, grass-fed",Food,Brazil,Foil,5.72,15625,Ship,True,True,43
+Eco Cork Bag,"Made of cork, shipped from Europe",Accessories,India,Cardboard,23.92,16204,Ship,False,False,21
+Imported Body Wash,"Fragrance-free, paper tube",Personal Care,USA,Glass,0.49,2830,Air,False,True,80
+Organic Organic Juice,"TetraPak, added vitamins",Beverage,China,Cardboard,2.33,14462,Truck,False,True,63
+Imported Organic Juice,"Plastic bottle, filtered water",Beverage,India,TetraPak,29.45,6369,Air,False,False,20
+Eco Organic Juice,"Aluminum can, roasted beans",Beverage,Brazil,Compost,27.5,1562,Air,False,True,27
+Eco Energy Drink,"Aluminum can, roasted beans",Beverage,China,Plastic,23.05,7126,Ship,False,True,25
+Organic Cotton Tote,"Plastic-free, eco-friendly frame",Accessories,China,TetraPak,9.52,11403,Ship,False,True,54
+Local Local Apples,"Vegan, packaged in TetraPak",Food,India,Compost,15.88,3800,Air,False,False,52
+Eco Almond Milk,"Vegan, packaged in TetraPak",Food,Brazil,Glass,27.69,4368,Truck,True,True,22
+Local Vegan Leather Wallet,"Plastic-free, eco-friendly frame",Accessories,USA,Paper,1.81,7351,Air,False,True,68
+Organic Organic Juice,"Plastic bottle, filtered water",Beverage,Portugal,None,18.95,7036,Truck,False,True,44
+Local Body Wash,"Gel-based, recyclable bottle",Personal Care,China,TetraPak,6.13,10712,Air,False,True,52
+Bottled Water,"Glass bottle, no additives",Beverage,India,Foil,20.19,13521,Truck,False,False,33
+Organic Vegan Leather Wallet,"Plastic-free, eco-friendly frame",Accessories,Portugal,Cardboard,14.72,10871,Ship,False,True,45
+Eco Beef Steak,"Organic, non-GMO, paper-wrapped",Food,China,None,11.2,10825,Ship,True,True,42
+Organic Cork Bag,"Recycled material, cloth lining",Accessories,Portugal,Glass,14.53,10025,Truck,False,True,46
+Imported Bottled Water,"Aluminum can, roasted beans",Beverage,India,Cardboard,28.39,13227,Ship,False,False,18
+Imported Granola Bar,"Vegan, packaged in TetraPak",Food,India,Paper,4.92,6006,Air,False,False,69
+Organic Bottled Water,"TetraPak, added vitamins",Beverage,Germany,Foil,6.81,17635,Truck,False,True,47
+Local Tofu,"Frozen, plastic wrap, processed",Food,India,Cardboard,3.14,9744,Truck,False,False,75
+Cork Bag,"Made of cork, shipped from Europe",Accessories,USA,Compost,10.69,11156,Ship,False,True,52
+Eco Vegan Leather Wallet,"Reusable, printed cotton",Accessories,Germany,Plastic,18.76,11590,Air,False,True,15
+Organic Tofu,"Organic, non-GMO, paper-wrapped",Food,Brazil,Plastic,6.09,18938,Truck,False,True,36
+Eco Bamboo Toothbrush,"Biodegradable, compostable wrapper",Personal Care,Brazil,Plastic,9.22,14806,Ship,False,True,38
+Organic Body Wash,"Gel-based, recyclable bottle",Personal Care,Brazil,Glass,4.37,10088,Truck,False,True,67
+Recycled Sunglasses,"Recycled material, cloth lining",Accessories,Portugal,Glass,19.08,9748,Truck,False,True,38
+Eco Almond Milk,"Organic, non-GMO, paper-wrapped",Food,China,TetraPak,11.25,17438,Air,True,True,19
+Imported Bottled Water,"TetraPak, added vitamins",Beverage,USA,Compost,27.31,6597,Air,False,True,18
+Organic Vegan Leather Wallet,"Made of cork, shipped from Europe",Accessories,Germany,Foil,10.17,17689,Ship,False,True,40
+Imported Organic Juice,"Glass bottle, no additives",Beverage,China,Plastic,9.74,18853,Air,False,True,19
+Imported Local Apples,"Organic, non-GMO, paper-wrapped",Food,Germany,Glass,10.05,13992,Ship,False,True,48
+Local Bamboo Toothbrush,"Fragrance-free, paper tube",Personal Care,USA,Foil,20.35,12238,Truck,False,True,31
+Eco Organic Cotton Tote,"Made of cork, shipped from Europe",Accessories,Germany,Foil,4.12,9939,Air,False,True,58
+Local Lotion,"Plastic case, roll-on type",Personal Care,China,Paper,25.13,16211,Air,False,True,3
+Local Deodorant,"Plastic case, roll-on type",Personal Care,Portugal,Foil,22.16,14260,Air,False,True,13
+Local Shampoo,"Plastic case, roll-on type",Personal Care,Brazil,Compost,3.67,13948,Air,False,True,51
+Imported Cork Bag,"Plastic-free, eco-friendly frame",Accessories,China,TetraPak,15.18,12876,Ship,False,True,40
+Organic Deodorant,"Biodegradable, compostable wrapper",Personal Care,USA,Glass,7.98,1860,Truck,False,True,77
+Organic Tofu,"Organic, non-GMO, paper-wrapped",Food,USA,TetraPak,23.73,6545,Air,False,True,25
+Eco Organic Juice,"Aluminum can, roasted beans",Beverage,USA,None,29.3,6984,Truck,False,True,24
+Organic Body Wash,"Plastic case, roll-on type",Personal Care,India,Compost,16.09,18998,Truck,False,False,31
+Eco Organic Juice,"Aluminum can, roasted beans",Beverage,India,Glass,18.48,10654,Truck,False,False,43
+Organic Recycled Sunglasses,"Recycled material, cloth lining",Accessories,China,Paper,0.65,18466,Truck,False,True,58
+Imported Shampoo,"Sulfate-free, 200ml plastic bottle",Personal Care,India,Compost,27.91,14045,Air,False,False,7
+Recycled Sunglasses,"Recycled material, cloth lining",Accessories,India,Cardboard,18.22,9724,Truck,False,False,45
+Local Chicken Nuggets,"Organic, non-GMO, paper-wrapped",Food,Brazil,Compost,22.92,5021,Truck,True,True,30
+Imported Organic Cotton Tote,"Made of cork, shipped from Europe",Accessories,Portugal,None,26.72,17232,Ship,False,True,8
+Local Recycled Sunglasses,"Recycled material, cloth lining",Accessories,Germany,Plastic,17.03,8182,Ship,False,True,35
+Organic Deodorant,"Biodegradable, compostable wrapper",Personal Care,China,Plastic,19.25,12562,Truck,False,True,22
+Eco Bottled Water,"Aluminum can, roasted beans",Beverage,Germany,None,21.79,4310,Ship,False,True,44
+Organic Organic Cotton Tote,"Reusable, printed cotton",Accessories,Germany,Cardboard,0.37,1140,Ship,False,True,93
+Organic Energy Drink,"Glass bottle, no additives",Beverage,Portugal,Compost,14.4,440,Truck,False,True,67
+Organic Recycled Sunglasses,"Plastic-free, eco-friendly frame",Accessories,India,Glass,21.22,4531,Air,False,False,39
+Eco Paneer,"Fresh, dairy-based, paper-packed",Food,Brazil,TetraPak,27.73,2332,Air,True,True,16
+Local Bottled Water,"Plastic bottle, filtered water",Beverage,USA,Cardboard,13.47,4700,Ship,False,True,60
+Bamboo Toothbrush,"Gel-based, recyclable bottle",Personal Care,India,Foil,26.71,18389,Ship,False,False,11
+Organic Almond Milk,"Vegan, packaged in TetraPak",Food,Germany,Foil,2.48,12391,Ship,True,True,57
+Beef Steak,"Vegan, packaged in TetraPak",Food,China,Plastic,22.44,12249,Ship,True,True,7
+Organic Paneer,"Mixed nuts, oats, wrapped in foil",Food,China,TetraPak,25.98,8451,Truck,True,True,18
+Local Bamboo Toothbrush,"Gel-based, recyclable bottle",Personal Care,Brazil,Cardboard,22.87,6231,Truck,False,True,38
+Local Cold Brew Coffee,"Aluminum can, roasted beans",Beverage,Portugal,Plastic,4.27,15103,Truck,False,True,47
+Paneer,"Fresh, dairy-based, paper-packed",Food,China,Compost,8.34,12031,Ship,True,True,45
+Eco Chicken Nuggets,"Organic, non-GMO, paper-wrapped",Food,USA,Compost,9.2,8643,Ship,True,True,50
+Eco Lotion,"Fragrance-free, paper tube",Personal Care,India,Paper,10.22,5507,Truck,False,False,69
+Almond Milk,"Fresh, dairy-based, paper-packed",Food,India,TetraPak,27.95,13568,Air,True,False,0
+Imported Organic Cotton Tote,"Recycled material, cloth lining",Accessories,Brazil,Glass,21.39,6886,Truck,False,True,40
+Eco Bottled Water,"Aluminum can, roasted beans",Beverage,Germany,TetraPak,23.84,18497,Air,False,True,2
+Eco Lotion,"Biodegradable, compostable wrapper",Personal Care,Brazil,Plastic,5.78,905,Ship,False,True,73
+Local Organic Juice,"Aluminum can, roasted beans",Beverage,Portugal,Cardboard,17.29,17189,Ship,False,True,27
+Imported Organic Cotton Tote,"Reusable, printed cotton",Accessories,Portugal,Glass,19.32,11069,Truck,False,True,35
+Organic Recycled Sunglasses,"Made of cork, shipped from Europe",Accessories,Portugal,Compost,3.34,7050,Truck,False,True,75
+Recycled Sunglasses,"Made of cork, shipped from Europe",Accessories,Brazil,Plastic,17.61,2565,Air,False,True,35
+Local Cork Bag,"Reusable, printed cotton",Accessories,Germany,Compost,20.54,13606,Ship,False,True,27
+Body Wash,"Biodegradable, compostable wrapper",Personal Care,Portugal,Cardboard,10.64,1230,Air,False,True,62
+Local Lotion,"Biodegradable, compostable wrapper",Personal Care,China,Paper,15.64,12106,Ship,False,True,40
+Organic Bamboo Toothbrush,"Gel-based, recyclable bottle",Personal Care,Portugal,Glass,4.33,9082,Air,False,True,59
+Organic Deodorant,"Sulfate-free, 200ml plastic bottle",Personal Care,USA,Plastic,28.12,16977,Air,False,True,0
+Cork Bag,"Plastic-free, eco-friendly frame",Accessories,Brazil,TetraPak,10.02,16796,Ship,False,True,42
+Eco Organic Cotton Tote,"Reusable, printed cotton",Accessories,Germany,TetraPak,4.26,7735,Truck,False,True,72
+Shampoo,"Gel-based, recyclable bottle",Personal Care,China,Paper,10.28,10227,Truck,False,True,55
+Eco Deodorant,"Sulfate-free, 200ml plastic bottle",Personal Care,Brazil,Foil,14.28,730,Truck,False,True,66
+Imported Paneer,"Farm-grown, no packaging",Food,India,Foil,26.38,8513,Air,True,False,11
+Organic Cold Brew Coffee,"Aluminum can, roasted beans",Beverage,India,Plastic,14.14,10432,Truck,False,False,42
+Organic Shampoo,"Biodegradable, compostable wrapper",Personal Care,USA,Foil,12.97,4091,Truck,False,True,62
+Organic Juice,"Glass bottle, no additives",Beverage,Portugal,Foil,16.81,11730,Air,False,True,29
+Bottled Water,"TetraPak, added vitamins",Beverage,Germany,Plastic,22.97,13047,Air,False,True,4
+Organic Bamboo Toothbrush,"Sulfate-free, 200ml plastic bottle",Personal Care,USA,Paper,20.08,2793,Truck,False,True,50
+Eco Cork Bag,"Made of cork, shipped from Europe",Accessories,Germany,Paper,15.54,1260,Truck,False,True,62
+Eco Energy Drink,"Aluminum can, roasted beans",Beverage,Brazil,Compost,8.65,9489,Ship,False,True,60
+Eco Bottled Water,"TetraPak, added vitamins",Beverage,China,Foil,9.46,17159,Ship,False,True,43
+Imported Organic Cotton Tote,"Recycled material, cloth lining",Accessories,Portugal,Glass,21.73,3395,Ship,False,True,46
+Energy Drink,"Glass bottle, no additives",Beverage,Brazil,Plastic,7.77,19527,Ship,False,True,31
+Eco Cold Brew Coffee,"TetraPak, added vitamins",Beverage,Germany,TetraPak,13.01,6359,Ship,False,True,57
+Recycled Sunglasses,"Reusable, printed cotton",Accessories,Portugal,Compost,28.84,17882,Truck,False,True,3
+Organic Cork Bag,"Recycled material, cloth lining",Accessories,China,Cardboard,19.47,3656,Ship,False,True,50
+Eco Local Apples,"Mixed nuts, oats, wrapped in foil",Food,Brazil,None,2.98,17572,Ship,False,True,55
+Local Cork Bag,"Recycled material, cloth lining",Accessories,China,Paper,11.4,12811,Truck,False,True,48
+Local Body Wash,"Biodegradable, compostable wrapper",Personal Care,Germany,Glass,28.69,8361,Ship,False,True,22
+Eco Bottled Water,"Aluminum can, roasted beans",Beverage,USA,Plastic,18.33,10766,Truck,False,True,28
+Imported Recycled Sunglasses,"Reusable, printed cotton",Accessories,India,Compost,14.94,11562,Ship,False,False,48
+Eco Shampoo,"Sulfate-free, 200ml plastic bottle",Personal Care,Portugal,Foil,18.09,19706,Truck,False,True,20
+Organic Body Wash,"Plastic case, roll-on type",Personal Care,Germany,Paper,27.21,12806,Air,False,True,6
+Energy Drink,"Aluminum can, roasted beans",Beverage,Portugal,TetraPak,1.54,3687,Air,False,True,75
+Organic Paneer,"Organic, non-GMO, paper-wrapped",Food,Germany,Plastic,10.91,18180,Ship,True,True,18
+Imported Paneer,"Farm-grown, no packaging",Food,India,Compost,27.41,6340,Ship,True,False,24
+Imported Granola Bar,"Organic, non-GMO, paper-wrapped",Food,Brazil,Paper,17.92,13267,Air,False,True,24
+Organic Almond Milk,"Frozen, plastic wrap, processed",Food,Portugal,Cardboard,22.16,17228,Truck,True,True,7
+Eco Almond Milk,"Plastic-wrapped, imported, grass-fed",Food,USA,Cardboard,10.64,9820,Truck,True,True,45
+Bamboo Toothbrush,"Biodegradable, compostable wrapper",Personal Care,Brazil,Foil,14.24,15696,Air,False,True,26
+Organic Shampoo,"Sulfate-free, 200ml plastic bottle",Personal Care,India,TetraPak,6.98,19394,Air,False,False,39
+Eco Organic Cotton Tote,"Recycled material, cloth lining",Accessories,USA,Paper,13.23,19224,Ship,False,True,31
+Imported Body Wash,"Plastic case, roll-on type",Personal Care,Germany,TetraPak,7.87,18640,Air,False,True,33
+Organic Cotton Tote,"Recycled material, cloth lining",Accessories,China,None,15.0,6753,Air,False,True,42
+Local Shampoo,"Gel-based, recyclable bottle",Personal Care,Brazil,Plastic,23.49,12973,Truck,False,True,14
+Organic Juice,"Plastic bottle, filtered water",Beverage,Portugal,Paper,13.27,19308,Ship,False,True,31
+Eco Body Wash,"Plastic case, roll-on type",Personal Care,China,Glass,0.72,17859,Ship,False,True,59
+Tofu,"Fresh, dairy-based, paper-packed",Food,Germany,Cardboard,1.53,2583,Air,False,True,77
+Eco Body Wash,"Biodegradable, compostable wrapper",Personal Care,China,Glass,18.07,17226,Ship,False,True,25
+Lotion,"Plastic case, roll-on type",Personal Care,Portugal,Cardboard,4.78,11245,Truck,False,True,64
+Vegan Leather Wallet,"Made of cork, shipped from Europe",Accessories,India,Compost,3.13,15384,Ship,False,False,64
+Eco Paneer,"Mixed nuts, oats, wrapped in foil",Food,Portugal,None,28.61,19992,Ship,True,True,0
+Imported Tofu,"Fresh, dairy-based, paper-packed",Food,Germany,Cardboard,8.71,1293,Air,False,True,66
+Local Bamboo Toothbrush,"Sulfate-free, 200ml plastic bottle",Personal Care,India,Glass,4.65,3719,Air,False,False,74
+Imported Bamboo Toothbrush,"Biodegradable, compostable wrapper",Personal Care,Germany,TetraPak,3.77,14354,Truck,False,True,60
+Imported Local Apples,"Organic, non-GMO, paper-wrapped",Food,Brazil,Glass,17.01,14268,Ship,False,True,33
+Imported Local Apples,"Frozen, plastic wrap, processed",Food,USA,Plastic,24.41,1674,Truck,False,True,34
+Organic Energy Drink,"Plastic bottle, filtered water",Beverage,India,Foil,26.33,10606,Ship,False,False,27
+Organic Beef Steak,"Fresh, dairy-based, paper-packed",Food,Brazil,Paper,23.52,5927,Air,True,True,17
+Eco Shampoo,"Gel-based, recyclable bottle",Personal Care,Brazil,None,16.95,12503,Air,False,True,27
+Shampoo,"Biodegradable, compostable wrapper",Personal Care,India,Paper,15.24,5650,Truck,False,False,59
+Imported Cork Bag,"Made of cork, shipped from Europe",Accessories,Germany,None,9.79,5815,Truck,False,True,65
+Organic Organic Juice,"Aluminum can, roasted beans",Beverage,Portugal,None,3.28,18786,Ship,False,True,52
+Local Beef Steak,"Frozen, plastic wrap, processed",Food,Portugal,Paper,2.9,9650,Ship,True,True,61
+Eco Beef Steak,"Vegan, packaged in TetraPak",Food,China,Plastic,7.9,4476,Truck,True,True,52
+Imported Tofu,"Organic, non-GMO, paper-wrapped",Food,India,Paper,9.67,3634,Air,False,False,64
+Imported Bottled Water,"Glass bottle, no additives",Beverage,USA,TetraPak,0.71,9896,Air,False,True,65
+Eco Lotion,"Gel-based, recyclable bottle",Personal Care,Portugal,Glass,7.78,3367,Air,False,True,64
+Energy Drink,"TetraPak, added vitamins",Beverage,India,Plastic,9.9,4750,Ship,False,False,62
+Local Beef Steak,"Mixed nuts, oats, wrapped in foil",Food,Brazil,Paper,24.13,11823,Truck,True,True,14
+Eco Vegan Leather Wallet,"Plastic-free, eco-friendly frame",Accessories,Brazil,Compost,23.45,199,Air,False,True,39
+Deodorant,"Biodegradable, compostable wrapper",Personal Care,Brazil,Plastic,16.91,5186,Ship,False,True,42
+Granola Bar,"Frozen, plastic wrap, processed",Food,Brazil,Plastic,13.85,2884,Ship,False,True,53
+Imported Recycled Sunglasses,"Recycled material, cloth lining",Accessories,USA,Glass,17.35,8276,Air,False,True,35
+Local Vegan Leather Wallet,"Made of cork, shipped from Europe",Accessories,Portugal,Plastic,3.11,6880,Air,False,True,56
+Bamboo Toothbrush,"Sulfate-free, 200ml plastic bottle",Personal Care,Brazil,Paper,27.7,18002,Ship,False,True,4
+Organic Cork Bag,"Reusable, printed cotton",Accessories,USA,Foil,26.4,16548,Truck,False,True,10
+Imported Shampoo,"Biodegradable, compostable wrapper",Personal Care,Germany,TetraPak,2.53,11043,Air,False,True,58
+Organic Cold Brew Coffee,"Aluminum can, roasted beans",Beverage,Brazil,Glass,14.83,18611,Truck,False,True,29
+Shampoo,"Biodegradable, compostable wrapper",Personal Care,China,Foil,21.58,2619,Truck,False,True,47
+Organic Vegan Leather Wallet,"Made of cork, shipped from Europe",Accessories,Germany,None,10.08,16327,Air,False,True,33
+Organic Vegan Leather Wallet,"Plastic-free, eco-friendly frame",Accessories,Germany,Paper,26.85,1368,Air,False,True,30
+Organic Paneer,"Vegan, packaged in TetraPak",Food,USA,Cardboard,12.13,14729,Truck,True,True,32
+Bottled Water,"Glass bottle, no additives",Beverage,Brazil,Foil,12.8,12217,Truck,False,True,46
+Organic Energy Drink,"Plastic bottle, filtered water",Beverage,China,Foil,6.26,19476,Air,False,True,35
+Imported Organic Juice,"Glass bottle, no additives",Beverage,Germany,Compost,2.25,16973,Air,False,True,48
+Organic Shampoo,"Biodegradable, compostable wrapper",Personal Care,Brazil,Foil,22.82,8343,Air,False,True,24
+Imported Organic Juice,"Plastic bottle, filtered water",Beverage,Portugal,TetraPak,11.64,6092,Air,False,True,50
+Imported Bamboo Toothbrush,"Fragrance-free, paper tube",Personal Care,India,Foil,14.83,4351,Ship,False,False,63
+Cork Bag,"Recycled material, cloth lining",Accessories,China,TetraPak,28.15,1836,Air,False,True,26
+Bottled Water,"TetraPak, added vitamins",Beverage,Portugal,Glass,25.46,10657,Truck,False,True,24
+Imported Organic Cotton Tote,"Recycled material, cloth lining",Accessories,Portugal,None,17.65,4884,Truck,False,True,51
+Local Deodorant,"Fragrance-free, paper tube",Personal Care,Germany,Glass,28.7,7731,Truck,False,True,23
+Local Lotion,"Sulfate-free, 200ml plastic bottle",Personal Care,Brazil,Compost,23.62,1871,Ship,False,True,45
+Imported Shampoo,"Fragrance-free, paper tube",Personal Care,India,Plastic,29.33,131,Air,False,False,22
+Organic Chicken Nuggets,"Farm-grown, no packaging",Food,China,None,9.62,1149,Ship,True,True,64
+Imported Energy Drink,"TetraPak, added vitamins",Beverage,China,Plastic,26.02,11035,Ship,False,True,11
+Eco Organic Juice,"TetraPak, added vitamins",Beverage,Brazil,None,7.18,4542,Ship,False,True,72
+Imported Bamboo Toothbrush,"Fragrance-free, paper tube",Personal Care,India,Cardboard,7.74,10711,Ship,False,False,64
+Cold Brew Coffee,"Plastic bottle, filtered water",Beverage,Portugal,Compost,21.16,3462,Truck,False,True,47
+Organic Cold Brew Coffee,"Aluminum can, roasted beans",Beverage,China,TetraPak,9.72,6473,Air,False,True,54
+Imported Recycled Sunglasses,"Reusable, printed cotton",Accessories,USA,Foil,17.37,7816,Ship,False,True,46
+Eco Deodorant,"Biodegradable, compostable wrapper",Personal Care,Germany,TetraPak,26.53,15923,Ship,False,True,11
+Organic Beef Steak,"Vegan, packaged in TetraPak",Food,China,Cardboard,8.5,19105,Air,True,True,20
+Imported Beef Steak,"Organic, non-GMO, paper-wrapped",Food,Brazil,TetraPak,29.13,13453,Ship,True,True,1
+Organic Deodorant,"Plastic case, roll-on type",Personal Care,India,Cardboard,2.03,535,Air,False,False,85
+Imported Cork Bag,"Recycled material, cloth lining",Accessories,China,Paper,12.86,2156,Ship,False,True,66
+Imported Cold Brew Coffee,"Glass bottle, no additives",Beverage,USA,Glass,24.14,4269,Truck,False,True,39
+Eco Bamboo Toothbrush,"Sulfate-free, 200ml plastic bottle",Personal Care,India,Compost,13.27,6058,Ship,False,False,62
+Organic Beef Steak,"Organic, non-GMO, paper-wrapped",Food,India,Compost,20.31,17497,Truck,True,False,16
+Recycled Sunglasses,"Recycled material, cloth lining",Accessories,Germany,None,17.93,2907,Air,False,True,45
+Local Vegan Leather Wallet,"Made of cork, shipped from Europe",Accessories,India,TetraPak,26.38,15554,Truck,False,False,17
+Eco Cork Bag,"Made of cork, shipped from Europe",Accessories,Germany,Cardboard,4.89,9154,Truck,False,True,68
+Organic Juice,"TetraPak, added vitamins",Beverage,China,TetraPak,29.6,16016,Ship,False,True,4
+Eco Lotion,"Plastic case, roll-on type",Personal Care,Brazil,Cardboard,2.9,7336,Ship,False,True,76
+Imported Cold Brew Coffee,"Glass bottle, no additives",Beverage,USA,Cardboard,6.66,16225,Truck,False,True,50
+Eco Lotion,"Plastic case, roll-on type",Personal Care,India,Foil,11.31,9498,Air,False,False,50
+Organic Vegan Leather Wallet,"Made of cork, shipped from Europe",Accessories,USA,Plastic,17.43,11977,Air,False,True,18
+Imported Bottled Water,"TetraPak, added vitamins",Beverage,USA,Plastic,22.65,19056,Air,False,True,0
+Organic Organic Juice,"Aluminum can, roasted beans",Beverage,India,Compost,20.4,3557,Air,False,False,43
+Paneer,"Farm-grown, no packaging",Food,Portugal,TetraPak,13.11,12662,Air,True,True,24
+Eco Cork Bag,"Plastic-free, eco-friendly frame",Accessories,Brazil,TetraPak,22.76,10044,Ship,False,True,30
+Local Bamboo Toothbrush,"Gel-based, recyclable bottle",Personal Care,India,Paper,7.1,6662,Air,False,False,63
+Local Energy Drink,"TetraPak, added vitamins",Beverage,Portugal,Plastic,9.58,18780,Air,False,True,19
+Organic Cork Bag,"Plastic-free, eco-friendly frame",Accessories,India,Foil,10.68,11702,Ship,False,False,56
+Local Bamboo Toothbrush,"Plastic case, roll-on type",Personal Care,Germany,Cardboard,16.4,7142,Ship,False,True,49
+Imported Chicken Nuggets,"Mixed nuts, oats, wrapped in foil",Food,India,Cardboard,15.1,2900,Air,True,False,45
+Chicken Nuggets,"Plastic-wrapped, imported, grass-fed",Food,India,Plastic,17.21,6268,Truck,True,False,34
+Eco Energy Drink,"Glass bottle, no additives",Beverage,India,Compost,21.17,735,Ship,False,False,57
+Imported Organic Juice,"Glass bottle, no additives",Beverage,China,Glass,6.75,9533,Truck,False,True,63
+Local Tofu,"Frozen, plastic wrap, processed",Food,Germany,None,1.17,6232,Truck,False,True,81
+Imported Body Wash,"Biodegradable, compostable wrapper",Personal Care,Germany,Plastic,19.34,1595,Truck,False,True,44
+Organic Recycled Sunglasses,"Reusable, printed cotton",Accessories,USA,Cardboard,6.87,10295,Truck,False,True,62
+Eco Vegan Leather Wallet,"Recycled material, cloth lining",Accessories,USA,Foil,10.77,8485,Air,False,True,48
+Local Apples,"Organic, non-GMO, paper-wrapped",Food,India,Plastic,2.22,3310,Ship,False,False,80
+Imported Recycled Sunglasses,"Recycled material, cloth lining",Accessories,Portugal,Foil,15.92,11393,Truck,False,True,42
+Eco Cork Bag,"Reusable, printed cotton",Accessories,USA,Cardboard,12.68,14346,Ship,False,True,42
+Organic Lotion,"Biodegradable, compostable wrapper",Personal Care,India,TetraPak,0.27,3801,Truck,False,False,93
+Imported Organic Cotton Tote,"Made of cork, shipped from Europe",Accessories,China,Plastic,25.8,9581,Truck,False,True,15
+Local Bamboo Toothbrush,"Gel-based, recyclable bottle",Personal Care,Germany,Compost,6.64,1642,Truck,False,True,79
+Imported Beef Steak,"Farm-grown, no packaging",Food,Germany,TetraPak,6.66,1144,Air,True,True,60
+Shampoo,"Gel-based, recyclable bottle",Personal Care,India,Plastic,13.58,8469,Truck,False,False,47
+Recycled Sunglasses,"Reusable, printed cotton",Accessories,India,Compost,9.85,2296,Truck,False,False,77
+Recycled Sunglasses,"Reusable, printed cotton",Accessories,Germany,Paper,18.96,10831,Truck,False,True,37
+Recycled Sunglasses,"Made of cork, shipped from Europe",Accessories,China,TetraPak,5.72,3643,Air,False,True,67
+Local Chicken Nuggets,"Fresh, dairy-based, paper-packed",Food,Brazil,Glass,23.66,6036,Truck,True,True,26
+Local Body Wash,"Gel-based, recyclable bottle",Personal Care,Portugal,None,9.32,17792,Air,False,True,32
+Imported Chicken Nuggets,"Farm-grown, no packaging",Food,Germany,Foil,23.7,19411,Ship,True,True,0
+Eco Cold Brew Coffee,"Glass bottle, no additives",Beverage,USA,Cardboard,15.92,11338,Ship,False,True,42
+Eco Almond Milk,"Organic, non-GMO, paper-wrapped",Food,USA,Paper,6.89,9340,Truck,True,True,54
+Organic Organic Juice,"Aluminum can, roasted beans",Beverage,Germany,Cardboard,21.97,19715,Truck,False,True,13
+Eco Beef Steak,"Organic, non-GMO, paper-wrapped",Food,Portugal,TetraPak,8.66,18407,Ship,True,True,32
+Imported Local Apples,"Mixed nuts, oats, wrapped in foil",Food,China,Compost,11.4,14904,Truck,False,True,44
+Eco Vegan Leather Wallet,"Reusable, printed cotton",Accessories,Brazil,Plastic,13.91,10962,Truck,False,True,37
+Organic Energy Drink,"Aluminum can, roasted beans",Beverage,Germany,Cardboard,11.16,2316,Truck,False,True,69
+Body Wash,"Fragrance-free, paper tube",Personal Care,Portugal,None,22.08,11368,Air,False,True,19
+Bamboo Toothbrush,"Sulfate-free, 200ml plastic bottle",Personal Care,India,None,20.26,3014,Truck,False,False,54
+Body Wash,"Biodegradable, compostable wrapper",Personal Care,USA,Cardboard,21.4,12060,Truck,False,True,29
+Imported Chicken Nuggets,"Vegan, packaged in TetraPak",Food,China,Cardboard,27.2,3595,Ship,True,True,24
+Imported Recycled Sunglasses,"Made of cork, shipped from Europe",Accessories,USA,Compost,20.94,2373,Air,False,True,40
+Imported Organic Cotton Tote,"Reusable, printed cotton",Accessories,Portugal,Paper,21.58,13400,Ship,False,True,26
+Chicken Nuggets,"Organic, non-GMO, paper-wrapped",Food,China,TetraPak,19.74,16635,Ship,True,True,13
+Organic Cork Bag,"Reusable, printed cotton",Accessories,India,Glass,21.7,8176,Air,False,False,31
+Local Deodorant,"Biodegradable, compostable wrapper",Personal Care,Portugal,Cardboard,14.57,17797,Ship,False,True,31
+Energy Drink,"Plastic bottle, filtered water",Beverage,India,Compost,17.09,11644,Air,False,False,33
+Eco Bamboo Toothbrush,"Fragrance-free, paper tube",Personal Care,USA,TetraPak,12.19,2669,Ship,False,True,66
+Eco Bamboo Toothbrush,"Fragrance-free, paper tube",Personal Care,Germany,Cardboard,13.27,13074,Air,False,True,33
+Organic Granola Bar,"Vegan, packaged in TetraPak",Food,Germany,None,28.53,19874,Ship,False,True,0
+Local Organic Cotton Tote,"Plastic-free, eco-friendly frame",Accessories,India,TetraPak,18.07,1916,Truck,False,False,61
+Imported Energy Drink,"TetraPak, added vitamins",Beverage,Portugal,Glass,15.7,260,Air,False,True,54
+Imported Organic Juice,"TetraPak, added vitamins",Beverage,USA,Paper,3.99,3143,Air,False,True,72
+Organic Chicken Nuggets,"Vegan, packaged in TetraPak",Food,India,Plastic,15.3,10241,Truck,True,False,30
+Local Cold Brew Coffee,"Glass bottle, no additives",Beverage,India,Paper,5.53,19533,Air,False,False,40
+Local Bottled Water,"Plastic bottle, filtered water",Beverage,India,Compost,4.3,15791,Ship,False,False,61
+Imported Cold Brew Coffee,"Plastic bottle, filtered water",Beverage,Brazil,Paper,7.49,6085,Ship,False,True,69
+Local Organic Juice,"Plastic bottle, filtered water",Beverage,China,TetraPak,13.18,1298,Truck,False,True,67
+Imported Beef Steak,"Frozen, plastic wrap, processed",Food,China,TetraPak,13.2,4541,Air,True,True,40
+Beef Steak,"Plastic-wrapped, imported, grass-fed",Food,Germany,Compost,6.43,14164,Air,True,True,35
+Eco Recycled Sunglasses,"Plastic-free, eco-friendly frame",Accessories,India,Compost,23.56,6948,Air,False,False,30
+Cork Bag,"Recycled material, cloth lining",Accessories,USA,Foil,1.87,9796,Air,False,True,63
+Local Bamboo Toothbrush,"Sulfate-free, 200ml plastic bottle",Personal Care,Brazil,Plastic,0.88,15298,Truck,False,True,54
+Lotion,"Biodegradable, compostable wrapper",Personal Care,USA,Compost,8.76,19178,Air,False,True,30
+Imported Granola Bar,"Fresh, dairy-based, paper-packed",Food,Brazil,Plastic,24.68,10327,Truck,False,True,16
+Imported Organic Cotton Tote,"Recycled material, cloth lining",Accessories,China,Compost,11.86,12443,Ship,False,True,48
+Organic Shampoo,"Fragrance-free, paper tube",Personal Care,Portugal,None,16.14,14035,Air,False,True,25
+Eco Recycled Sunglasses,"Made of cork, shipped from Europe",Accessories,China,Cardboard,29.19,6364,Ship,False,True,25
+Eco Paneer,"Organic, non-GMO, paper-wrapped",Food,Brazil,Foil,18.09,8772,Air,True,True,22
+Organic Cotton Tote,"Made of cork, shipped from Europe",Accessories,China,Compost,2.99,17109,Truck,False,True,56
+Local Beef Steak,"Plastic-wrapped, imported, grass-fed",Food,India,Plastic,8.26,10736,Ship,True,False,43
+Organic Organic Cotton Tote,"Reusable, printed cotton",Accessories,Germany,Foil,29.28,8191,Ship,False,True,21
+Imported Shampoo,"Sulfate-free, 200ml plastic bottle",Personal Care,USA,Compost,16.05,7435,Ship,False,True,49
+Local Organic Cotton Tote,"Reusable, printed cotton",Accessories,Portugal,Paper,17.93,16244,Truck,False,True,28
+Eco Chicken Nuggets,"Plastic-wrapped, imported, grass-fed",Food,USA,Compost,11.25,100,Truck,True,True,63
+Organic Organic Juice,"Aluminum can, roasted beans",Beverage,India,Cardboard,0.76,16533,Air,False,False,56
+Deodorant,"Plastic case, roll-on type",Personal Care,Brazil,Foil,24.73,17327,Air,False,True,2
+Local Almond Milk,"Vegan, packaged in TetraPak",Food,Portugal,Foil,6.98,1308,Truck,True,True,70
+Imported Organic Juice,"TetraPak, added vitamins",Beverage,India,Plastic,10.97,10265,Truck,False,False,49
+Local Beef Steak,"Organic, non-GMO, paper-wrapped",Food,Germany,Cardboard,16.26,5782,Truck,True,True,42
+Organic Body Wash,"Biodegradable, compostable wrapper",Personal Care,USA,Paper,3.72,15674,Ship,False,True,57
+Organic Lotion,"Gel-based, recyclable bottle",Personal Care,India,Paper,28.69,17983,Truck,False,False,8
+Local Lotion,"Sulfate-free, 200ml plastic bottle",Personal Care,USA,TetraPak,2.77,9592,Air,False,True,61
+Organic Cold Brew Coffee,"Glass bottle, no additives",Beverage,India,Paper,5.41,7459,Ship,False,False,76
+Organic Deodorant,"Sulfate-free, 200ml plastic bottle",Personal Care,India,TetraPak,4.94,5831,Air,False,False,70
+Organic Lotion,"Plastic case, roll-on type",Personal Care,Brazil,Paper,18.99,18736,Air,False,True,11
+Eco Organic Juice,"Glass bottle, no additives",Beverage,Portugal,Foil,26.82,701,Truck,False,True,41
+Vegan Leather Wallet,"Made of cork, shipped from Europe",Accessories,China,Paper,28.38,18115,Air,False,True,0
+Imported Bamboo Toothbrush,"Biodegradable, compostable wrapper",Personal Care,India,Cardboard,16.78,14113,Truck,False,False,39
+Local Chicken Nuggets,"Organic, non-GMO, paper-wrapped",Food,Portugal,Compost,27.45,11583,Air,True,True,0
+Imported Recycled Sunglasses,"Reusable, printed cotton",Accessories,China,Plastic,24.47,8967,Ship,False,True,20
+Local Organic Cotton Tote,"Reusable, printed cotton",Accessories,India,TetraPak,15.35,4489,Ship,False,False,62
+Local Energy Drink,"Glass bottle, no additives",Beverage,Brazil,Cardboard,29.67,2151,Ship,False,True,32
+Local Organic Juice,"TetraPak, added vitamins",Beverage,Germany,Compost,20.73,7059,Truck,False,True,40
+Local Bottled Water,"Aluminum can, roasted beans",Beverage,Germany,Foil,27.73,19561,Truck,False,True,1
+Imported Chicken Nuggets,"Frozen, plastic wrap, processed",Food,Portugal,Paper,28.66,1534,Ship,True,True,25
+Local Bottled Water,"Glass bottle, no additives",Beverage,Portugal,Plastic,27.9,3961,Truck,False,True,23
+Organic Vegan Leather Wallet,"Reusable, printed cotton",Accessories,USA,Foil,15.26,4506,Air,False,True,46
+Organic Juice,"Plastic bottle, filtered water",Beverage,India,Glass,18.9,5975,Truck,False,False,52
+Chicken Nuggets,"Fresh, dairy-based, paper-packed",Food,Portugal,Paper,13.99,1810,Ship,True,True,55
+Tofu,"Organic, non-GMO, paper-wrapped",Food,USA,Glass,19.64,17333,Ship,False,True,22
+Imported Bamboo Toothbrush,"Sulfate-free, 200ml plastic bottle",Personal Care,Germany,Compost,6.0,1304,Air,False,True,71
+Imported Organic Juice,"Glass bottle, no additives",Beverage,China,Plastic,20.13,15000,Ship,False,True,15
+Cork Bag,"Reusable, printed cotton",Accessories,USA,Glass,17.7,6400,Ship,False,True,48
+Organic Cork Bag,"Made of cork, shipped from Europe",Accessories,Germany,TetraPak,5.73,19758,Ship,False,True,45
+Organic Organic Juice,"Glass bottle, no additives",Beverage,China,Glass,18.67,548,Ship,False,True,57
+Imported Bottled Water,"TetraPak, added vitamins",Beverage,China,Foil,7.01,3500,Truck,False,True,74
+Almond Milk,"Mixed nuts, oats, wrapped in foil",Food,Portugal,Paper,2.94,8916,Truck,True,True,63
+Organic Bamboo Toothbrush,"Gel-based, recyclable bottle",Personal Care,Brazil,Cardboard,0.98,10041,Truck,False,True,74
+Imported Vegan Leather Wallet,"Recycled material, cloth lining",Accessories,China,Glass,8.23,5710,Air,False,True,58
+Beef Steak,"Fresh, dairy-based, paper-packed",Food,Germany,Compost,15.33,19293,Air,True,True,7
+Organic Deodorant,"Sulfate-free, 200ml plastic bottle",Personal Care,Germany,Cardboard,20.27,4248,Air,False,True,37
+Eco Granola Bar,"Vegan, packaged in TetraPak",Food,China,Paper,21.39,10830,Air,False,True,22
+Vegan Leather Wallet,"Plastic-free, eco-friendly frame",Accessories,Germany,Plastic,15.19,3683,Truck,False,True,48
+Eco Deodorant,"Gel-based, recyclable bottle",Personal Care,Brazil,Glass,17.2,6239,Truck,False,True,49
+Imported Energy Drink,"Aluminum can, roasted beans",Beverage,China,Compost,22.64,2203,Truck,False,True,46
+Imported Paneer,"Plastic-wrapped, imported, grass-fed",Food,USA,Paper,1.48,7768,Ship,True,True,68
+Body Wash,"Biodegradable, compostable wrapper",Personal Care,Germany,Paper,19.6,1387,Truck,False,True,54
+Cork Bag,"Recycled material, cloth lining",Accessories,Germany,Foil,7.3,8739,Air,False,True,54
+Organic Deodorant,"Gel-based, recyclable bottle",Personal Care,Portugal,None,5.17,9243,Ship,False,True,67
+Imported Lotion,"Sulfate-free, 200ml plastic bottle",Personal Care,Portugal,Foil,16.17,14378,Ship,False,True,35
+Local Bamboo Toothbrush,"Gel-based, recyclable bottle",Personal Care,China,Compost,21.11,9066,Truck,False,True,35
+Organic Vegan Leather Wallet,"Made of cork, shipped from Europe",Accessories,India,Glass,6.74,13945,Ship,False,False,60
+Eco Lotion,"Plastic case, roll-on type",Personal Care,Brazil,TetraPak,1.11,13801,Air,False,True,56
+Eco Bottled Water,"Glass bottle, no additives",Beverage,India,Glass,25.67,16988,Air,False,False,6
+Local Energy Drink,"Plastic bottle, filtered water",Beverage,Portugal,Glass,13.81,9422,Ship,False,True,50
+Organic Bamboo Toothbrush,"Biodegradable, compostable wrapper",Personal Care,India,Paper,24.46,3200,Ship,False,False,46
+Imported Deodorant,"Fragrance-free, paper tube",Personal Care,USA,Compost,28.38,17041,Truck,False,True,5
+Imported Cork Bag,"Made of cork, shipped from Europe",Accessories,India,Compost,4.21,17454,Air,False,False,48
+Organic Cork Bag,"Made of cork, shipped from Europe",Accessories,Germany,Compost,11.71,1078,Air,False,True,60
+Bottled Water,"TetraPak, added vitamins",Beverage,China,Paper,5.12,13898,Truck,False,True,58
+Organic Cold Brew Coffee,"Plastic bottle, filtered water",Beverage,China,None,6.59,13103,Ship,False,True,56
+Imported Local Apples,"Frozen, plastic wrap, processed",Food,USA,None,14.78,13361,Air,False,True,30
+Organic Cork Bag,"Recycled material, cloth lining",Accessories,India,Foil,29.34,12359,Truck,False,False,18
+Eco Local Apples,"Frozen, plastic wrap, processed",Food,India,Plastic,0.86,6054,Truck,False,False,77
+Organic Cork Bag,"Reusable, printed cotton",Accessories,India,Paper,4.92,7072,Truck,False,False,77
+Local Lotion,"Plastic case, roll-on type",Personal Care,Brazil,Compost,29.76,354,Truck,False,True,36
+Bamboo Toothbrush,"Biodegradable, compostable wrapper",Personal Care,Portugal,Compost,22.66,5446,Ship,False,True,40
+Imported Shampoo,"Fragrance-free, paper tube",Personal Care,India,Paper,16.9,1583,Truck,False,False,64
+Imported Bottled Water,"Glass bottle, no additives",Beverage,India,None,16.35,19051,Truck,False,False,30
+Eco Bottled Water,"Glass bottle, no additives",Beverage,Germany,Paper,23.05,6767,Truck,False,True,36
+Organic Almond Milk,"Vegan, packaged in TetraPak",Food,China,Plastic,5.36,5227,Truck,True,True,55
+Local Organic Cotton Tote,"Reusable, printed cotton",Accessories,Brazil,Paper,17.7,9671,Air,False,True,31
+Organic Body Wash,"Plastic case, roll-on type",Personal Care,China,Plastic,16.33,5029,Truck,False,True,43
+Organic Recycled Sunglasses,"Plastic-free, eco-friendly frame",Accessories,India,TetraPak,11.37,12384,Air,False,False,44
+Imported Lotion,"Sulfate-free, 200ml plastic bottle",Personal Care,India,Glass,27.63,3243,Truck,False,False,39
+Organic Cotton Tote,"Plastic-free, eco-friendly frame",Accessories,India,Foil,24.61,1929,Truck,False,False,48
+Local Bamboo Toothbrush,"Plastic case, roll-on type",Personal Care,Portugal,Cardboard,3.16,19478,Ship,False,True,51
+Local Organic Juice,"Aluminum can, roasted beans",Beverage,India,Cardboard,2.72,18128,Air,False,False,49
+Organic Energy Drink,"Glass bottle, no additives",Beverage,China,None,23.16,10227,Air,False,True,19
+Eco Energy Drink,"Aluminum can, roasted beans",Beverage,USA,Cardboard,16.83,14263,Truck,False,True,34
+Imported Almond Milk,"Vegan, packaged in TetraPak",Food,USA,Glass,10.55,10148,Truck,True,True,44
+Eco Organic Juice,"Glass bottle, no additives",Beverage,USA,Paper,23.65,16427,Ship,False,True,16
+Local Tofu,"Plastic-wrapped, imported, grass-fed",Food,Germany,TetraPak,21.67,6574,Truck,False,True,39
+Eco Chicken Nuggets,"Vegan, packaged in TetraPak",Food,Portugal,Plastic,29.07,2310,Ship,True,True,13
+Shampoo,"Gel-based, recyclable bottle",Personal Care,Brazil,Foil,22.97,3786,Ship,False,True,43
+Eco Vegan Leather Wallet,"Plastic-free, eco-friendly frame",Accessories,USA,TetraPak,26.5,7743,Air,False,True,17
+Chicken Nuggets,"Organic, non-GMO, paper-wrapped",Food,USA,Foil,13.07,12497,Truck,True,True,35
+Eco Recycled Sunglasses,"Plastic-free, eco-friendly frame",Accessories,Portugal,Compost,11.36,11589,Truck,False,True,50
+Eco Organic Cotton Tote,"Recycled material, cloth lining",Accessories,Germany,Foil,4.5,7795,Ship,False,True,71
+Eco Cork Bag,"Made of cork, shipped from Europe",Accessories,Portugal,Compost,13.57,6691,Ship,False,True,55
+Organic Vegan Leather Wallet,"Plastic-free, eco-friendly frame",Accessories,Germany,Foil,5.8,5966,Truck,False,True,73
+Organic Bamboo Toothbrush,"Biodegradable, compostable wrapper",Personal Care,Portugal,Paper,0.98,19189,Truck,False,True,56
+Local Bottled Water,"Glass bottle, no additives",Beverage,Portugal,None,1.47,5966,Truck,False,True,82
+Organic Lotion,"Fragrance-free, paper tube",Personal Care,Germany,Foil,7.19,7450,Air,False,True,57
+Eco Chicken Nuggets,"Plastic-wrapped, imported, grass-fed",Food,Germany,Foil,23.23,7170,Ship,True,True,25
+Local Energy Drink,"Aluminum can, roasted beans",Beverage,Brazil,Glass,17.67,2805,Truck,False,True,55
+Eco Lotion,"Fragrance-free, paper tube",Personal Care,Brazil,None,1.37,3358,Air,False,True,77
+Eco Vegan Leather Wallet,"Made of cork, shipped from Europe",Accessories,Portugal,None,10.52,222,Ship,False,True,74
+Local Cold Brew Coffee,"Plastic bottle, filtered water",Beverage,Brazil,Foil,23.9,631,Truck,False,True,47
+Eco Local Apples,"Plastic-wrapped, imported, grass-fed",Food,USA,Cardboard,13.9,7984,Truck,False,True,53
+Eco Body Wash,"Biodegradable, compostable wrapper",Personal Care,USA,Compost,29.59,5887,Air,False,True,15
+Bottled Water,"Plastic bottle, filtered water",Beverage,India,Glass,2.42,12602,Air,False,False,61
+Organic Cotton Tote,"Made of cork, shipped from Europe",Accessories,India,Cardboard,12.19,17151,Truck,False,False,42
+Imported Energy Drink,"Plastic bottle, filtered water",Beverage,USA,Paper,11.56,5585,Ship,False,True,61
+Local Beef Steak,"Farm-grown, no packaging",Food,India,Paper,26.68,17598,Ship,True,False,2
+Local Local Apples,"Mixed nuts, oats, wrapped in foil",Food,Brazil,Plastic,0.63,6323,Air,False,True,62
+Imported Cold Brew Coffee,"Aluminum can, roasted beans",Beverage,USA,Compost,12.64,4649,Air,False,True,51
+Vegan Leather Wallet,"Made of cork, shipped from Europe",Accessories,China,TetraPak,23.33,15059,Truck,False,True,19
+Tofu,"Vegan, packaged in TetraPak",Food,Portugal,Paper,3.99,1915,Truck,False,True,85
+Organic Organic Juice,"Aluminum can, roasted beans",Beverage,Portugal,Glass,13.53,6233,Ship,False,True,56
+Organic Local Apples,"Organic, non-GMO, paper-wrapped",Food,Portugal,Compost,12.53,16844,Ship,False,True,37
