@@ -183,10 +183,6 @@ streamlit run app.py --server.runOnSave true
 - Limited to predefined categories and packaging types
 - Requires internet connection for initial Streamlit setup
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - Built with [Streamlit](https://streamlit.io/) for the web interface
